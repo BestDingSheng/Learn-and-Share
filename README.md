@@ -13,6 +13,14 @@
 * [使用TortoiseGit操作分支的创建与合并](http://www.cnblogs.com/hbujt/p/5554038.html)
 * [Ps & 切图](开发工具/Ps & 切图.md)
 
+### 前端开发规范
+* [css规范](前端规范/doc/md/css.md)
+* [html规范](前端规范/doc/md/HTML.md)
+* [js规范](前端规范/doc/md/javascript.md)
+* [开发基本原则](前端规范/doc/md/基本原则.md)
+* [拉卡拉前端](前端规范/doc/md/拉卡拉前端.md)
+* [开发环境配置入门教程](前端规范/doc/md/配置入门教程.md)
+
 ### 常用前端技术工具资料库
 | 技术名称 | 网站 | 描述 |
 | ------ | ------ | ------|
