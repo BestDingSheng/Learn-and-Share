@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "id": "1",
+      "title": "vue特性",
+      "content": "简洁/数据驱动/组件化/轻量/快速/模块友好",
+      "Lcontent": "HTML 模板 + JSON 数据，再创建一个 Vue 实例，就这么简单;用解耦、可复用的组件来构造界面;~24kb min+gzip，无依赖;精确有效的异步批量 DOM 更新;模块友好"
+    },
+    {
+      "id": "2",
+      "title": "组件的 [keep-alive] 特性",
+      "content": "Vue.js 为其组件设计了一个 [keep-alive] 的特性，如果这个特性存在",
+      "Lcontent": "Vue.js 为其组件设计了一个 [keep-alive] 的特性，如果这个特性存在，那么在组件被重复创建的时候，会通过缓存机制快速创建组件，以提升视图更新的性能"
+    },
+    {
+      "id": "3",
+      "title": "数据监听机制",
+      "content": "Object.defineProperty 这个 API，为此属性设计一个特殊的 getter/setter，然后在 setter 里触发一个函数，就可以达到监听的效果。",
+      "Lcontent": "如何监听某一个对象属性的变化呢？我们很容易想到 Object.defineProperty 这个 API，为此属性设计一个特殊的 getter/setter，然后在 setter 里触发一个函数，就可以达到监听的效果。不过数组可能会有点麻烦，Vue.js 采取的是对几乎每一个可能改变数据的方法进行 prototype 更改"
+    }
+  ]
+}
