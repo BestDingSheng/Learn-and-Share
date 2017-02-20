@@ -1,4 +1,4 @@
-# 2017学习计划
+# 爱分享 爱学习
   完善ing
 ### 常用前端技术工具资料库
 | 技术名称 | 网站 | 描述 |
@@ -15,3 +15,4 @@
 | webpack | [http://webpack.github.io/] (http://webpack.github.io/) | 新一代打包工具 |
 | Gulp | [http://www.gulpjs.com.cn/] (http://www.gulpjs.com.cn/) | 自动化构建工具 |
 | Node.js | [http://nodejs.cn/] (http://nodejs.cn/) | NodeJS中文网 |
+ 感谢我的同学小谢贡献的资源
