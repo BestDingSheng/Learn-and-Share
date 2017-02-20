@@ -10,6 +10,7 @@
 ### 开发工具
 * [git & github](开发工具/git & github.md)
 * [sublime快捷键(mac完整版)](开发工具/sublime快捷键(mac完整版).md)
+* [使用TortoiseGit操作分支的创建与合并](http://www.cnblogs.com/hbujt/p/5554038.html)
 * [Ps & 切图](开发工具/Ps & 切图.md)
 
 ### 常用前端技术工具资料库
