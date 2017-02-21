@@ -67,12 +67,14 @@
         }
       },
       created () {
+        console.log(location.pathname)
 
       },
       mounted () {
        // this.$nextTick(function(){
        //   this.imgAjax("people");             
        //    })
+       this.isUrl();
        this.loadImg()
      },
      updated(){
@@ -94,8 +96,14 @@
           // console.log(arry[i]);
           that.imgAjax(arry[i]);
         }
+      },
+      isUrl:function(){
+        if(location.pathname=="/"){
+          location.pathname="home";
+        }
       }
-    }
+    },
+
   }
 
 
