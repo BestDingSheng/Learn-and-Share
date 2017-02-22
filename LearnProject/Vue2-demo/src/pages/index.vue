@@ -74,6 +74,8 @@
        //   this.imgAjax("people");             
        //    })
        this.loadImg()
+       // this.isinit();
+       // console.log(location.pathname)
      },
      updated(){
      },
@@ -93,6 +95,12 @@
         for(var i = 0;i<arry.length;i++){
           // console.log(arry[i]);
           that.imgAjax(arry[i]);
+        }
+      },
+      isinit:function(){
+        console.log(location.pathname)
+        if (location.pathname!=="/home") {
+           location.pathname="/home"
         }
       }
     }
