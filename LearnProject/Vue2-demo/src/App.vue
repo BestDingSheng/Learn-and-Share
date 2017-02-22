@@ -1,15 +1,15 @@
 <template>
   <div class>
-      <bar v-if="isIndex">
-          <bar-item path="/home"  label="首页" icon="home"></bar-item>
-          <bar-item path="/search" label="发现" icon="search"></bar-item>
-          <bar-item path="/message" label="消息" icon="message"></bar-item>
-          <bar-item path="/me" label="我" icon="me"></bar-item>
-      </bar> 
+    <bar v-if="isIndex">
+      <bar-item path="/"  label="首页" icon="home"></bar-item>
+      <bar-item path="/search" label="发现" icon="search"></bar-item>
+      <bar-item path="/message" label="消息" icon="message"></bar-item>
+      <bar-item path="/me" label="我" icon="me"></bar-item>
+    </bar> 
 
-      <transition name="fade">
-          <router-view keep-alive></router-view>
-      </transition>
+    <transition name="fade">
+      <router-view keep-alive></router-view>
+    </transition>
     
   </div>
 </template>
@@ -28,17 +28,28 @@
     created(){
       // console.log(this.$root);
     },
-    components:{
-      Bar,
-      BarItem
-    }
+    mounted(){
+      //this.isinit();
+    },
+    methods:{
+      isinit:function(){
+        console.log(location.pathname)
+        if (location.pathname!=="/home") {
+         location.pathname="/home"
+       }
+     }
+   },
+   components:{
+    Bar,
+    BarItem
   }
+}
 </script>
 <style>
-.fade-enter-active, .fade-leave-active {
-  transition: opacity .3s
-}
-.fade-enter, .fade-leave-to /* .fade-leave-active in <2.1.8 */ {
-  opacity: 0
-}
+  .fade-enter-active, .fade-leave-active {
+    transition: opacity .3s
+  }
+  .fade-enter, .fade-leave-to /* .fade-leave-active in <2.1.8 */ {
+    opacity: 0
+  }
 </style>

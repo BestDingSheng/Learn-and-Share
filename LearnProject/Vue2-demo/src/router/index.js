@@ -21,10 +21,6 @@ export default new VueRouter({
     path:'/',
     component:Index
   },
-    {
-    path:'/lib',
-    component:Index
-  },
   {
     path:'/home',
     component:Index
@@ -40,6 +36,10 @@ export default new VueRouter({
   {
     path:'/me',
     component:four
+  },
+    {
+    path:'*',
+    component:Index
   }
     // {
     //   path: '/index',
