@@ -1,6 +1,7 @@
-# 爱分享 爱学习
+# 爱学习 爱分享
 
 哈哈哈今年的计划就是把这个学习与分享的项目一点一滴的完善起来
+记录自己的学习成长之路- -。
 
 ## 我们的前端知识库
 
@@ -20,6 +21,19 @@
 * [开发基本原则](前端规范/doc/md/基本原则.md)
 * [拉卡拉前端](前端规范/doc/md/拉卡拉前端.md)
 * [开发环境配置入门教程](前端规范/doc/md/配置入门教程.md)
+
+### 一些值得学习的博客
+* [豪情](http://jikey.cnblogs.com/)
+* [陈惠超](http://www.iamsuperman.cn/)
+* [Jack Hu](https://jackhu.top/)
+* [nswbmw github](https://github.com/nswbmw)
+
+### vue相关知识
+* [vue2-demo展示地址](http://BestDingSheng.github.io/Learn-and-Share/LearnProject/Vue2-demo/lib/index.html)
+* [vue2.0不可忽略的变化](http://www.cnblogs.com/dupd/p/5904109.html)
+* [简单理解vuex](http://www.cnblogs.com/kongsanpang/p/6236527.html)
+* [vue-cli prxoy解决开发环境的跨域](http://www.jianshu.com/p/95b2caf7e0da)
+* [数据接口](https://bird.ioliu.cn/)
 
 ### 常用前端技术工具资料库
 | 技术名称 | 网站 | 描述 |
