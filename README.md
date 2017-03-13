@@ -1,9 +1,8 @@
-# 爱学习 爱分享
+## 爱分享 爱学习
 
-哈哈哈今年的计划就是把这个学习与分享的项目一点一滴的完善起来
-记录自己的学习成长之路- -。
+> 哈哈哈今年的计划就是把这个学习与分享的项目一点一滴的完善起来
 
-## 我们的前端知识库
+
 
 ### js基础
 * [string类型](js基础/string类型.md)
@@ -13,6 +12,7 @@
 * [git & github](开发工具/git & github.md)
 * [使用TortoiseGit操作分支的创建与合并](http://www.cnblogs.com/hbujt/p/5554038.html)
 * [sublime快捷键(mac完整版)](开发工具/sublime快捷键(mac完整版).md)
+* [最权威的Mac工具大全](https://github.com/zhufengnodejs/awesome-mac)
 
 ### 前端开发规范
 * [css规范](前端规范/doc/md/css.md)
@@ -22,13 +22,20 @@
 * [拉卡拉前端](前端规范/doc/md/拉卡拉前端.md)
 * [开发环境配置入门教程](前端规范/doc/md/配置入门教程.md)
 
+
 ### 一些值得学习的博客
 * [豪情](http://jikey.cnblogs.com/)
 * [陈惠超](http://www.iamsuperman.cn/)
 * [Jack Hu](https://jackhu.top/)
 * [nswbmw github](https://github.com/nswbmw)
+* [前端大牛博客墙](http://blogwall.us/)
+
+### 前端工具相关
+* [webpack入门配置](https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine)
+* [日期格式化插件-monment.js](http://momentjs.cn/)
 
 ### vue相关知识
+* [zepto 模块化](https://github.com/yolo2013/n-zepto)
 * [vue2-demo展示地址](http://BestDingSheng.github.io/Learn-and-Share/LearnProject/Vue2-demo/lib/index.html)
 * [vue2.0不可忽略的变化](http://www.cnblogs.com/dupd/p/5904109.html)
 * [简单理解vuex](http://www.cnblogs.com/kongsanpang/p/6236527.html)
