@@ -4,17 +4,21 @@
 
 
 
-### js基础
-* [string类型](js基础/string类型.md)
+
+### git相关资料
+* [git & github](开发工具/git&github.md)
+* [git本地仓库提交到远程仓库](http://blog.csdn.net/w13770269691/article/details/38704941)
+* [.gitignore git忽略文件规范](http://www.cnblogs.com/kevingrace/p/5690241.html)
+* [使用TortoiseGit操作分支的创建与合并](http://www.cnblogs.com/hbujt/p/5554038.html)
 
 ### 开发工具
-* [Ps & 切图](开发工具/Ps & 切图.md)
-* [git & github](开发工具/git & github.md)
-* [使用TortoiseGit操作分支的创建与合并](http://www.cnblogs.com/hbujt/p/5554038.html)
+* [Ps & 切图](开发工具/Ps&切图.md)
 * [sublime快捷键(mac完整版)](开发工具/sublime快捷键(mac完整版).md)
 * [最权威的Mac工具大全](https://github.com/zhufengnodejs/awesome-mac)
+* [vscode官网](https://code.visualstudio.com/)
 
 ### 前端开发规范
+* [string类型](js基础/string类型.md)
 * [css规范](前端规范/doc/md/css.md)
 * [html规范](前端规范/doc/md/HTML.md)
 * [js规范](前端规范/doc/md/javascript.md)
@@ -33,11 +37,14 @@
 ### 前端工具相关
 * [webpack入门配置](https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine)
 * [日期格式化插件-monment.js](http://momentjs.cn/)
+* [querystring博客教程](http://yijiebuyi.com/blog/d37512fc6df0fc4d0adfc2ec5c3d46ff.html)
+* [mock.js数据生成工具](http://mockjs.com/)
 
 ### vue相关知识
 * [zepto 模块化](https://github.com/yolo2013/n-zepto)
 * [vue2-demo展示地址](http://BestDingSheng.github.io/Learn-and-Share/LearnProject/Vue2-demo/lib/index.html)
 * [vue2.0不可忽略的变化](http://www.cnblogs.com/dupd/p/5904109.html)
+* [vuex学习博客](http://www.cnblogs.com/wwlhome/p/6522853.html)
 * [简单理解vuex](http://www.cnblogs.com/kongsanpang/p/6236527.html)
 * [vue-cli prxoy解决开发环境的跨域](http://www.jianshu.com/p/95b2caf7e0da)
 * [数据接口](https://bird.ioliu.cn/)
@@ -64,7 +71,9 @@
 ### 常用后端技术工具资料库
 | 技术名称 | 网站 | 描述 |
 | ------ | ------ | ------|
-| 待完善 | 
+|node | [http://nodejs.cn/](http://nodejs.cn/) | nodejs中文网 |
+| experess | [http://www.expressjs.com.cn/](http://www.expressjs.com.cn/) | nodejs 框架|
+
 
 
  希望把这个学习与分享的项目越做越好 期待你们的加入~
