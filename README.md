@@ -17,9 +17,10 @@
 * [Mac破解软件网站](http://xclient.info/)
 * [最权威的Mac工具大全](https://github.com/zhufengnodejs/awesome-mac)
 * [vscode官网](https://code.visualstudio.com/)
+* [如何高效的配置MacPro](http://blog.jobbole.com/89013/)
 
 ### 前端开发规范
-* [string类型](js基础/string类型.md)
+<!--* [string类型](js基础/string类型.md)-->
 * [css规范](前端规范/doc/md/css.md)
 * [html规范](前端规范/doc/md/HTML.md)
 * [js规范](前端规范/doc/md/javascript.md)
@@ -78,3 +79,5 @@
 
 
  希望把这个学习与分享的项目越做越好 期待你们的加入~
+
+
