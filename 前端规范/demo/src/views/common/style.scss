@@ -1,0 +1,45 @@
+#app {
+  min-width: 1080px;
+}
+.pull-left {
+  float: left;
+}
+.pull-right {
+  float: right;
+}
+[v-cloak] {
+  display: none;
+}
+a {
+  text-decoration: none;
+  color: #C0CCDA;
+}
+.router-link-active {
+  color: #20a0ff;
+}
+.container {
+  position: relative;
+  top: 60px;
+  left: 0;
+}
+.panel-main{
+  margin-left: 240px;
+  padding: 20px;
+}
+.toolbar{
+  background: #F8FBF9;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+.toolbar .el-form-item{
+  margin-bottom: 0;
+  margin: 10px 0;
+}
+.pagination{
+  padding: 20px 0;
+  background: #fff;
+  .el-pagination{
+    float: right;
+  }
+}
