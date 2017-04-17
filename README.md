@@ -45,6 +45,7 @@
 ### vue相关知识
 * [zepto 模块化](https://github.com/yolo2013/n-zepto)
 * [vue2-demo展示地址](http://BestDingSheng.github.io/Learn-and-Share/LearnProject/Vue2-demo/lib/index.html)
+* [vue2 生命周期](http://www.cnblogs.com/gagag/p/6246493.html)
 * [vue2.0不可忽略的变化](http://www.cnblogs.com/dupd/p/5904109.html)
 * [vuex学习博客](http://www.cnblogs.com/wwlhome/p/6522853.html)
 * [简单理解vuex](http://www.cnblogs.com/kongsanpang/p/6236527.html)
