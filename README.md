@@ -16,6 +16,7 @@
 * [最权威的Mac工具大全](https://github.com/zhufengnodejs/awesome-mac)
 * [vscode官网](https://code.visualstudio.com/)
 * [如何高效的配置MacPro](http://blog.jobbole.com/89013/)
+* [vscode插件大全](https://github.com/varHarrie/Dawn-Blossoms/issues/10)
 
 ### 前端开发规范
 <!--* [string类型](js基础/string类型.md)-->
@@ -33,6 +34,7 @@
 * [Jack Hu](https://jackhu.top/)
 * [nswbmw github](https://github.com/nswbmw)
 * [前端大牛博客墙](http://blogwall.us/)
+* [林鑫](https://github.com/lin-xin/blog)
 
 ### 前端工具相关
 * [webpack入门配置](https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine)
@@ -52,6 +54,10 @@
 * [简单理解vuex](http://www.cnblogs.com/kongsanpang/p/6236527.html)
 * [vue-cli prxoy解决开发环境的跨域](http://www.jianshu.com/p/95b2caf7e0da)
 
+### 能让我成长的优秀项目
+- [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  # vue 后台项目
+- [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) # vue 后台模板
+
 
 ### 常用前端技术工具资料库
 | 技术名称 | 网站 | 描述 |
@@ -63,6 +69,8 @@
 | dropload.min.js | [http://www.cnblogs.com/ccblogs/p/5257997.html]([http://www.cnblogs.com/ccblogs/p/5257997.html]) | 分页上拉加载 |
 | fastclick.js | [https://github.com/ftlabs/fastclick/](https://github.com/ftlabs/fastclick/) | 处理移动端点击bug框架 |
 | Scss | [http://sass.bootcss.com/](http://sass.bootcss.com/) |css预处理语言 |
+| vue-particles | http://www.8dou5che.com/2017/05/17/vue-particles/ | 粒子效果
+| vue-spinner | https://github.com/greyby/vue-spinner | vue-loading效果
 
 
 ### 打包工具
@@ -99,6 +107,5 @@
 | navicat | [https://www.navicat.com.cn/](https://www.navicat.com.cn/) |  数据库客户端 |
 
 
- 希望把这个学习与分享的项目越做越好 期待你们的加入~
-
-
+ ### 总结
+ - 把平时看到有用的常用的项目都收藏起来方便自己查找
