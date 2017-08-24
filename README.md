@@ -18,6 +18,7 @@
 * [vscode官网](https://code.visualstudio.com/)
 * [如何高效的配置MacPro](http://blog.jobbole.com/89013/)
 * [vscode插件大全](https://github.com/varHarrie/Dawn-Blossoms/issues/10)
+* [hexo个性化配置](https://segmentfault.com/a/1190000009544924#articleHeader5)
 
 ### 前端开发规范
 <!--* [string类型](js基础/string类型.md)-->
