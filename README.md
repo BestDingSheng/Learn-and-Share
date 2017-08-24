@@ -56,6 +56,12 @@
 * [简单理解vuex](http://www.cnblogs.com/kongsanpang/p/6236527.html)
 * [vue-cli prxoy解决开发环境的跨域](http://www.jianshu.com/p/95b2caf7e0da)
 
+### react相关知识
+* [react官网](https://facebook.github.io/react/)
+* [react中文网](http://www.react-cn.com/index.html)
+* [Redux 中文文档](http://www.redux.org.cn/)
+* [阮一峰全栈培训资料](https://github.com/BestDingSheng/jstraining)
+
 ### 能让我成长的优秀项目
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  # vue 后台项目
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) # vue 后台模板
