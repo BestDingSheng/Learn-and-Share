@@ -19,6 +19,9 @@
 * [如何高效的配置MacPro](http://blog.jobbole.com/89013/)
 * [vscode插件大全](https://github.com/varHarrie/Dawn-Blossoms/issues/10)
 * [hexo个性化配置](https://segmentfault.com/a/1190000009544924#articleHeader5)
+* [易于使用的PDF工具](https://smallpdf.com/cn/unlock-pdf)
+* [码云](http://git.oschina.net/)
+* [互联网开发工具集合](http://www.wulihub.com/nav/PM)
 
 ### 前端开发规范
 <!--* [string类型](js基础/string类型.md)-->
@@ -37,6 +40,7 @@
 * [nswbmw github](https://github.com/nswbmw)
 * [前端大牛博客墙](http://blogwall.us/)
 * [林鑫](https://github.com/lin-xin/blog)
+* [web前端学习资源分享](https://segmentfault.com/a/1190000010880049)
 
 ### 前端工具相关
 * [webpack入门配置](https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine)
@@ -45,6 +49,7 @@
 * [mock.js数据生成工具](http://mockjs.com/)
 * [faker.js数据模拟工具](https://github.com/Marak/faker.js)
 * [数据接口](https://bird.ioliu.cn/)
+
 
 ### vue相关知识
 * [zepto 模块化](https://github.com/yolo2013/n-zepto)
@@ -61,6 +66,8 @@
 * [react中文网](http://www.react-cn.com/index.html)
 * [Redux 中文文档](http://www.redux.org.cn/)
 * [阮一峰全栈培训资料](https://github.com/BestDingSheng/jstraining)
+* [Ant Design蚂蚁金服UI框架](https://ant.design/docs/spec/introduce-cn)
+* [dva基于redux的前端轻量级框架](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
 
 ### 能让我成长的优秀项目
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  # vue 后台项目
@@ -113,7 +120,10 @@
 | ThinkPHP5 | [https://www.kancloud.cn/manual/thinkphp5/118003](https://www.kancloud.cn/manual/thinkphp5/118003) | php TP 框架|
 | mamp | [https://www.mamp.info/en/](https://www.mamp.info/en/) |  mac PHP集成环境 |
 | navicat | [https://www.navicat.com.cn/](https://www.navicat.com.cn/) |  数据库客户端 |
+| koa2中文学习资料 | https://chenshenhai.github.io/koa2-note/note/static/middleware.html | 学习资料
 
 
  ### 总结
  - 把平时看到有用的常用的项目都收藏起来方便自己查找
+
+
