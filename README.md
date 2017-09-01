@@ -68,6 +68,7 @@
 * [阮一峰全栈培训资料](https://github.com/BestDingSheng/jstraining)
 * [Ant Design蚂蚁金服UI框架](https://ant.design/docs/spec/introduce-cn)
 * [dva基于redux的前端轻量级框架](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
+* [阮一峰React技术站教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 
 ### 能让我成长的优秀项目
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  # vue 后台项目
@@ -121,6 +122,9 @@
 | mamp | [https://www.mamp.info/en/](https://www.mamp.info/en/) |  mac PHP集成环境 |
 | navicat | [https://www.navicat.com.cn/](https://www.navicat.com.cn/) |  数据库客户端 |
 | koa2中文学习资料 | https://chenshenhai.github.io/koa2-note/note/static/middleware.html | 学习资料
+| PublicApi | https://github.com/toddmotto/public-apis | 公共api |
+| 豆瓣api | https://developers.douban.com/wiki/?title=api_v2 |  |
+| php中文网 | http://www.phpstudy.net/ | 前后端相关教程 |
 
 
  ### 总结
