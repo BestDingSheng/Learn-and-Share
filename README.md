@@ -2,6 +2,8 @@
 
 >  学习中分享,分享中进步
 
+### 互联网开原协议
+* [开源协议](http://choosealicense.online/)
 
 ### git相关资料
 * [git & github](开发工具/git&github.md)
@@ -116,15 +118,15 @@
 ### 常用后端技术工具资料库
 | 技术名称 | 网站 | 描述 |
 | ------ | ------ | ------|
-| node | [http://nodejs.cn/](http://nodejs.cn/) | nodejs中文网 |
-| experess | [http://www.expressjs.com.cn/](http://www.expressjs.com.cn/) | nodejs 框架|
+| Node | [http://nodejs.cn/](http://nodejs.cn/) | nodejs中文网 |
+| Experess | [http://www.expressjs.com.cn/](http://www.expressjs.com.cn/) | nodejs 框架|
 | ThinkPHP5 | [https://www.kancloud.cn/manual/thinkphp5/118003](https://www.kancloud.cn/manual/thinkphp5/118003) | php TP 框架|
-| mamp | [https://www.mamp.info/en/](https://www.mamp.info/en/) |  mac PHP集成环境 |
-| navicat | [https://www.navicat.com.cn/](https://www.navicat.com.cn/) |  数据库客户端 |
-| koa2中文学习资料 | https://chenshenhai.github.io/koa2-note/note/static/middleware.html | 学习资料
+| Mamp | [https://www.mamp.info/en/](https://www.mamp.info/en/) |  mac PHP集成环境 |
+| Navicat | [https://www.navicat.com.cn/](https://www.navicat.com.cn/) |  数据库客户端 |
+| Koa2中文学习资料 | https://chenshenhai.github.io/koa2-note/note/static/middleware.html | 学习资料
 | PublicApi | https://github.com/toddmotto/public-apis | 公共api |
-| 豆瓣api | https://developers.douban.com/wiki/?title=api_v2 |  |
-| php中文网 | http://www.phpstudy.net/ | 前后端相关教程 |
+| 豆瓣Api | https://developers.douban.com/wiki/?title=api_v2 |  |
+| PHP中文网 | http://www.phpstudy.net/ | 前后端相关教程 |
 
 
  ### 总结
