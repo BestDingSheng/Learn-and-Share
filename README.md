@@ -14,6 +14,7 @@
 
 ### 开发工具
 * [Ps & 切图](开发工具/Ps&切图.md)
+* [PS切图工具Cutterman](https://github.com/jawil/blog/issues/11)
 * [sublime快捷键(mac完整版)](开发工具/sublime快捷键(mac完整版).md)
 * [Mac破解软件网站](http://xclient.info/)
 * [最权威的Mac工具大全](https://github.com/zhufengnodejs/awesome-mac)
@@ -43,6 +44,8 @@
 * [nswbmw github](https://github.com/nswbmw)
 * [前端大牛博客墙](http://blogwall.us/)
 * [林鑫](https://github.com/lin-xin/blog)
+* [jawil](https://github.com/jawil/blog/issues/11)
+* [追梦子](http://www.cnblogs.com/pssp/p/5204324.html)
 * [web前端学习资源分享](https://segmentfault.com/a/1190000010880049)
 
 ### 前端工具相关
@@ -55,6 +58,7 @@
 
 ### 实用技巧
 * [express-session实现简单身份认证](http://www.cnblogs.com/chyingp/p/express-session.html)
+* [es6在线转es5工具](https://babeljs.io/repl/)
 
 
 ### vue相关知识
@@ -68,7 +72,9 @@
 ### react相关知识
 * [react官网](https://facebook.github.io/react/)
 * [react中文网](http://www.react-cn.com/index.html)
+* [react快速入门](https://hulufei.gitbooks.io/react-tutorial/dom.html)
 * [Redux 中文文档](http://www.redux.org.cn/)
+* [react-router中文文档](http://react-guide.github.io/react-router-cn/#)
 * [阮一峰全栈培训资料](https://github.com/BestDingSheng/jstraining)
 * [Ant Design蚂蚁金服UI框架](https://ant.design/docs/spec/introduce-cn)
 * [dva基于redux的前端轻量级框架](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
@@ -127,6 +133,7 @@
 | ------ | ------ | ------|
 | Node | [http://nodejs.cn/](http://nodejs.cn/) | nodejs中文网 |
 | Experess | [http://www.expressjs.com.cn/](http://www.expressjs.com.cn/) | nodejs 框架|
+| Express中文文档 | https://www.zybuluo.com/bajian/note/444152#reqapp | nodejs框架 |
 | pm2 | http://www.cnblogs.com/chyingp/p/pm2-documentation.html   | node生产环境部署工具 |
 | ThinkPHP5 | [https://www.kancloud.cn/manual/thinkphp5/118003](https://www.kancloud.cn/manual/thinkphp5/118003) | php TP 框架|
 | Mamp | [https://www.mamp.info/en/](https://www.mamp.info/en/) |  mac PHP集成环境 |
