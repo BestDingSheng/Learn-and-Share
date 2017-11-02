@@ -11,7 +11,7 @@
 * 技术博客：http://www.ding1996.cn
 * Github：https://github.com/BestDingSheng
 * 期望职位：Web前端工程师/Node工程师
-* 期望薪资：税前月薪17k~20k，特别喜欢的公司可例外
+* 期望薪资：税前月薪18k~20k，特别喜欢的公司可例外
 * 期望城市：上海
 
 
@@ -19,7 +19,7 @@
 
 - 掌握html5 css3 javascript、php 等前端开发语言
 - 熟练使用技术栈vue、vue-router、vuex、axios、webpack、es6
-- 了解使技术栈react+dva+antd等相关技术
+- 了解使技术栈react+react-router+redux+dva+antd等相关技术
 - 熟练使用jquery、zepto、bootstrap、siwper等常用js库
 - 有webapp开发经验，熟悉hybird开发 ApiCloud Dcloud等工具
 - 熟悉 NodeJs Express ThinkPhP Mysql Mongodb等服务端技术 
@@ -31,6 +31,8 @@
 ##### Mypos运营管理系统 
 
 <img src='http://oo0pbw6u4.bkt.clouddn.com/showimg.png'>
+
+使用技术 : vue2.0 vuex vue-router ElementUi axios sass localstorage cookies cors 等
 
 **工作内容**
 
@@ -49,6 +51,8 @@
 <img src='https://raw.githubusercontent.com/BestDingSheng/MyProject/master/WebApp/showImg/03.jpg' width='30%'>
 
 </div>
+
+使用技术 : html5 css3 echarts zepto mui h5push+ ajax 百度地图api 等
 
 **工作内容**
 
@@ -70,6 +74,8 @@
 <img src='https://raw.githubusercontent.com/BestDingSheng/MyProject/master/H5/showImg/adj-3.jpg' width='30%'>
 </div>
 
+使用技术 ：photoshop html5 css3 ajax 
+
 **工作内容**
 
 * 根据工作安排高效、高质地完成代码编写，确保符合规范的前端代码规范；
@@ -88,6 +94,15 @@
 
 项目收获 : 开发这个项目的时候大大小小碰到了不少的问题学了很多小技巧比如 nodejs做中间层用服务端去请求数据，vue的keep-alived 组件可以用来缓存组件 base64解码 以及vuex vue-router有了更深入的理解
 
+#### React技术栈开发的电影列表
+在线预览 https://bestdingsheng.github.io/reactMovie/build/index#/
+项目源码 https://github.com/BestDingSheng/reactMovie
+
+项目介绍 : 学习React的时候自己做的一个项目,使用技术 react react-router flexible json
+
+主要功能 : 热门电影 即将上映电影 电影详情 ...
+
+项目收获 : 对react语法 生命周期 组件 更加熟悉 
 
 ##### Express + Mysql 实现简易留言板
 在线预览 http://47.95.235.183:3000/login 
