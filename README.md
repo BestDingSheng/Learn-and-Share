@@ -31,7 +31,6 @@
 <!--* [string类型](js基础/string类型.md)-->
 * [css规范](前端规范/doc/md/css.md)
 * [html规范](前端规范/doc/md/HTML.md)
-* [js规范](前端规范/doc/md/javascript.md)
 * [开发基本原则](前端规范/doc/md/基本原则.md)
 * [拉卡拉前端](前端规范/doc/md/拉卡拉前端.md)
 * [开发环境配置入门教程](前端规范/doc/md/配置入门教程.md)

@@ -8,7 +8,7 @@
 * 丁盛 / 男 / 1996
 * 大专 / 上海电视大学
 * 工作年限 / 经验：3年
-* 技术博客：http://www.ding1996.cn
+* 技术博客：http://www.ding1996.cn/
 * Github：https://github.com/BestDingSheng
 * 期望职位：Web前端工程师/Node工程师
 * 期望薪资：税前月薪18k~20k，特别喜欢的公司可例外
@@ -49,7 +49,6 @@
 <img src='https://raw.githubusercontent.com/BestDingSheng/MyProject/master/WebApp/showImg/01.jpg' width='30%'>
 <img src='https://raw.githubusercontent.com/BestDingSheng/MyProject/master/WebApp/showImg/02.jpg' width='30%'>
 <img src='https://raw.githubusercontent.com/BestDingSheng/MyProject/master/WebApp/showImg/03.jpg' width='30%'>
-
 </div>
 
 使用技术 : html5 css3 echarts zepto mui h5push+ ajax 百度地图api 等
@@ -87,31 +86,22 @@
 
 ##### Vue技术栈开发的H5音乐播放器
 [项目源码](https://github.com/BestDingSheng/vueMusic)   [点我在线预览](https://bestdingsheng.github.io/vueMusic/dist/index.html#/home)
-
 项目介绍 : 业余时间开发的一个H5的音乐播放器主要是用技术有vue2.x vuex vue-router jsonp axios express 音乐数数据来自qq音乐
-
 主要功能 : 页面切换动画 播放暂停快进 歌手歌名搜索 播放列表添加删除等等
-
 项目收获 : 开发这个项目的时候大大小小碰到了不少的问题学了很多小技巧比如 nodejs做中间层用服务端去请求数据，vue的keep-alived 组件可以用来缓存组件 base64解码 以及vuex vue-router有了更深入的理解
 
 #### React技术栈开发的电影列表
 在线预览 https://bestdingsheng.github.io/reactMovie/build/index#/
 项目源码 https://github.com/BestDingSheng/reactMovie
-
 项目介绍 : 学习React的时候自己做的一个项目,使用技术 react react-router flexible json
-
 主要功能 : 热门电影 即将上映电影 电影详情 ...
-
 项目收获 : 对react语法 生命周期 组件 更加熟悉 
 
 ##### Express + Mysql 实现简易留言板
 在线预览 http://47.95.235.183:3000/login 
 项目源码 https://github.com/BestDingSheng/node-test-demo
-
 项目介绍 : 不会node的前端都不是个好前端,在自学node的时候做的一个小项目，主要是用技术 express mysql ejs monent jquery bootstrap pm2
-
 主要功能: 登陆拦截 用户注册 用户登陆 用户留言 查看留言 用户列表 分页查询 等等
-
 项目收获: 项目部署的时候买了个阿里云服务器 对linux Centos有了一定的认识 学习了在服务器上搭建 mysql node 等环境 以及通过github的 webhook功能实现 github提交代码服务端自动pull 对pm2也有一定的认识
 
 
