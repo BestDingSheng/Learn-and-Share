@@ -1,0 +1,18 @@
+{
+  "name": "04koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "koa": "^2.4.1",
+    "koa-static": "^4.0.2",
+    "koa-views": "^6.1.3"
+  }
+}
