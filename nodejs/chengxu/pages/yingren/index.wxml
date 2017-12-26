@@ -1,0 +1,35 @@
+<block wx:if="{{show}}">
+<view class='box'>
+  <image src='{{obj.avatars.large}}'>
+  </image>
+</view>
+<view class='padding'>
+  <view class='name'>
+    <view class='title'>{{obj.name}}</view>
+    <view class='jianjie'>{{obj.name_en}}</view>
+    <view class='jianjie'>{{obj.birthday}}</view>
+    <view class='jianjie'>{{obj.born_place}}</view>
+  </view>
+  <view class='person'>
+    <view class='title'>个人简介</view>
+    <view class='jianjie'>{{obj.summary}}</view>
+  </view>
+  <!--代表作品  -->
+  <view class='person'>
+    <view class='title'>代表作品</view>
+    <scroll-view scroll-x="true" style=" white-space: nowrap; display: flex">
+      <!--  display: inline-block-->
+      <view wx:for='{{obj.works}}' wx:key='{{index}}' class='hah' style="display: inline-block">
+        <image bindtap='lala' id='{{item.subject.id}}' src="{{item.subject.images.large}}"></image>
+        <view>{{item.subject.original_title}}</view>
+      </view>
+    </scroll-view>
+  </view>
+
+</view>
+</block>
+<block wx:else>
+<view class='mask'>
+  <image src='/utils/hah.gif'></image>
+</view>
+</block>

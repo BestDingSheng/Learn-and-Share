@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/index",
+    "pages/details/index",
+    "pages/soon/index",
+    "pages/hot/index",
+    "pages/my/index",
+    "pages/me/index",
+    "pages/yingren/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "丁盛电影",
+    "navigationBarBackgroundColor": "#42bd56",
+    "backgroundColor": "#fff",
+    "enablePullDownRefresh": false,
+    "onReachBottomDistance": 50
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "tabBar": {
+    "selectedColor": "#42bd56",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "正在热映",
+        "iconPath": "/utils/1.png",
+        "selectedIconPath": "/utils/act1.png"
+      },
+      {
+        "pagePath": "pages/soon/index",
+        "text": "即将上映",
+        "iconPath": "/utils/2.png",
+        "selectedIconPath": "/utils/act2.png"
+      },
+      {
+        "pagePath": "pages/hot/index",
+        "text": "热门电影",
+        "iconPath": "/utils/3.png",
+        "selectedIconPath": "/utils/act3.png"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "text": "我的",
+        "iconPath": "/utils/4.png",
+        "selectedIconPath": "/utils/act4.png"
+      }
+    ]
+  },
+  "debug": true
+}

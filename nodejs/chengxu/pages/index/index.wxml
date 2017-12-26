@@ -1,0 +1,29 @@
+<block wx:if="{{show}}">
+<view class='box' wx:for="{{list}}" wx:key="{{index}}">
+  <view class='left' mode='aspectFit'>
+    <image src="{{item.images.small}}"></image>
+
+  </view>
+  <view class='right'>
+    <navigator url="/pages/details/index?id={{item.id}}" hover-class='none'>
+
+      <view class='title'>{{item.title}}</view>
+      <view>导演 {{item.directors[0].name}}</view>
+      <view>
+        <text>演员 </text>
+        <text wx:for="{{item.casts}}" wx:key='{{index}}'>{{item.name}} </text>
+      </view>
+      <view>评分 {{item.rating.average?item.rating.average:'暂无评分'}}</view>
+      <view>
+        <text> {{item.collect_count}} 人看过</text>
+      </view>
+    </navigator>
+  </view>
+
+</view>
+</block>
+<block wx:else>
+<view class='mask'>
+  <image src='/utils/hah.gif'></image>
+</view>
+</block>

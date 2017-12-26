@@ -1,0 +1,36 @@
+/**index.wxss**/
+
+.box {
+  display: flex;
+  margin-bottom: 20rpx;
+}
+
+.box image {
+  width: 200rpx;
+  display: block;
+  height: 100%;
+}
+
+.box .left {
+  width: 200rpx;
+  height: 240rpx;
+  text-align: left;
+}
+
+.right {
+  padding-left: 20rpx; 
+}
+
+.title {
+  color: black;
+  font-size: 32rpx;
+}
+
+navigator {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+

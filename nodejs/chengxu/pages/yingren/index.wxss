@@ -1,0 +1,35 @@
+.box {
+  padding: 40rpx;
+  background: #555;
+  text-align: center;
+}
+.box image{
+  width: 50%;
+}
+
+.hah{
+  width: 90px;
+  margin-right: 10px;
+  text-align: center;
+  overflow: hidden;
+}
+.hah image{
+  width: 180rpx;
+  height: 240rpx;
+}
+
+ .title{
+  color: #333;
+  font-size: 32rpx;
+
+}
+.padding{
+  padding: 40rpx;
+}
+
+.person{
+  margin-top:20rpx;
+}
+.title{
+  margin-bottom: 20rpx;
+}

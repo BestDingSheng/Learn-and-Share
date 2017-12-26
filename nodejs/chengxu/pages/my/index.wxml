@@ -1,0 +1,6 @@
+<view class='head'>
+<image src="{{userinfo.avatarUrl}}"></image>
+<view class='name'>你好,{{userinfo.nickName}}</view>
+</view>
+
+<map class='map' show-location='true' latitude='{{latitude}}' longitude='{{longitude}}'></map>

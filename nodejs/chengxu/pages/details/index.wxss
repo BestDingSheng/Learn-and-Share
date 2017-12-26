@@ -1,0 +1,61 @@
+.box {
+  padding: 20rpx;
+}
+
+.title {
+  font-size: 32rpx;
+  color: #333;
+  margin-bottom: 20rpx;
+}
+.img image {
+   width: 60%; 
+   height: 260px;
+   display: block;
+  margin: 0 auto; 
+}
+
+.juqing {
+  margin: 20rpx 0;
+  font-size: 32rpx;
+}
+
+.content {
+  line-height: 40rpx;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.btn text {
+  width: 45%;
+  border: 1px solid #ffb712;
+  line-height: 50rpx;
+  color: #ffb712;
+  font-size: 28rpx;
+  border-radius: 10rpx;
+}
+
+.type{
+display:flex;
+flex-wrap:wrap;
+line-height:50rpx;
+margin:20rpx 0;
+}
+.type view{
+  font-size: 28rpx;
+color: #666;
+}
+
+.hah{
+  width: 90px;
+  height: 120px;
+  margin-right: 10px;
+  text-align: center;
+}
+.hah image{
+  width: 100%;
+  height: 100%;
+}

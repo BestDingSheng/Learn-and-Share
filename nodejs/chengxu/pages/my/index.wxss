@@ -1,0 +1,29 @@
+.head {
+  height: 300rpx;
+  display: flex;
+  align-items: center;
+  padding: 0 40rpx;
+  background: linear-gradient(#42bd56, #9ad57f);
+}
+
+.head image {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+}
+
+.name {
+  font-size: 32rpx;
+  color: #fff;
+  padding-left: 20px;
+}
+
+.map {
+position:absolute;
+width:100%;
+display:block;
+bottom:0;
+height:100%;
+top:300rpx;
+
+}

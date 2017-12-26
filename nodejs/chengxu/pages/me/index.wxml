@@ -1,0 +1,8 @@
+<view class="body">
+  <view class="nav bc_white">
+    <view class="{{selected?'red':'default'}}" bindtap="selected">系统提醒</view>
+    <view class="{{selected1?'red':'default'}}" bindtap="selected1">优惠活动</view>
+  </view>
+  <view class="{{selected?'show':'hidden'}}">for system</view>
+  <view class="{{selected1?'show':'hidden'}}">for activity</view>
+</view>

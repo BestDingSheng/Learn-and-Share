@@ -1,0 +1,46 @@
+<block wx:if="{{show}}">
+<view class='box'>
+  <view class='title'>
+    {{obj.title}}
+  </view>
+  <view class='img'>
+    <image bindtap='bindViewTap' src="{{obj.src}}"></image>
+  </view>
+  <view class='type'>
+    <view>{{obj.diqu}}/</view>
+    <view wx:for="{{obj.genres}}" wx:key='{{index}}'>
+      {{item+'/'}}
+    </view>
+    <view>{{obj.daoyan}}(导演) / </view>
+    <view wx:for="{{obj.casts}}" wx:key='{{index}}'>
+      {{item.name+"/"}}
+    </view>
+  </view>
+  <view class='btn'>
+    <text>看过 {{obj.xiangkan}}</text>
+    <text>想看 {{obj.kanguo}}</text>
+  </view>
+
+  <view class='juqing'>{{obj.title}}剧情</view>
+  <view class='content'>{{obj.summary}}</view>
+
+  <view>
+    <view class='juqing'>影人</view> 
+  <scroll-view scroll-x="true" style=" white-space: nowrap; display: flex">
+  <!--  display: inline-block-->
+    <view wx:for='{{obj.casts}}' wx:key='{{index}}' class='hah' style="display: inline-block">
+    <image bindtap='lala'id='{{item.id}}' src="{{item.avatars.large}}"></image>
+    <view>{{item.name}}</view>
+  </view>
+</scroll-view>
+  </view>
+
+
+</view>
+</block>
+
+<block wx:else>
+<view class='mask'>
+  <image src='/utils/hah.gif'></image>
+</view>
+</block>
