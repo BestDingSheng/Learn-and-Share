@@ -64,6 +64,10 @@ Page({
   },
   onReady:function(){
     console.log('我加载完成了')
+
+  },
+  onShow: function () {
+
     wx.setNavigationBarTitle({
       title: '热门电影'
     })

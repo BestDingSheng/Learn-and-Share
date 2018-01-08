@@ -18,7 +18,7 @@
   </view>
   <view class='btn'>
     <text>看过 {{obj.xiangkan}}</text>
-    <text>想看 {{obj.kanguo}}</text>
+    <text>收藏</text>
   </view>
 
   <view class='juqing'>{{obj.title}}剧情</view>

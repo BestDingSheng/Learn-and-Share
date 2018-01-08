@@ -1,6 +1,101 @@
 <view class='head'>
-<image src="{{userinfo.avatarUrl}}"></image>
-<view class='name'>你好,{{userinfo.nickName}}</view>
+  <image src="{{userinfo.avatarUrl}}"></image>
+  <view class='username'>你好,{{userinfo.nickName}}</view>
 </view>
 
-<map class='map' show-location='true' latitude='{{latitude}}' longitude='{{longitude}}'></map>
+
+<view>
+  <scroll-view scroll-x="true" class="tab-h" scroll-left="{{scrollLeft}}">
+    <view class="tab-item {{currentTab==0?'active':''}}" data-current="0" bindtap="swichNav">经典</view>
+    <view class="tab-item {{currentTab==1?'active':''}}" data-current="1" bindtap="swichNav">豆瓣高分</view>
+    <view class="tab-item {{currentTab==2?'active':''}}" data-current="2" bindtap="swichNav">冷门佳作</view>
+
+    <view class="tab-item {{currentTab==3?'active':''}}" data-current="3" bindtap="swichNav">喜剧</view>
+    <view class="tab-item {{currentTab==4?'active':''}}" data-current="4" bindtap="swichNav">爱情</view>
+    <view class="tab-item {{currentTab==5?'active':''}}" data-current="5" bindtap="swichNav">搜索</view>
+  </scroll-view>
+
+  <swiper class="tab-content" current="{{currentTab}}" duration="300" bindchange="switchTab" style="height:{{winHeight}}rpx">
+    <!--经典  -->
+    <swiper-item>
+      <template is="zujian" data="{{index:jingdian}}" />
+    </swiper-item>
+    <!-- 高分 -->
+    <swiper-item>
+      <template is="zujian" data="{{index:gaofen}}" />
+    </swiper-item>
+    <!-- 冷门佳作 -->
+    <swiper-item>
+      <template is="zujian" data="{{index:lengmen}}" />
+    </swiper-item>
+    <!-- 喜剧 -->
+    <swiper-item>
+      <template is="zujian" data="{{index:xiju}}" />
+    </swiper-item>
+    <!-- 爱情 -->
+    <swiper-item>
+      <template is="zujian" data="{{index:aiqing}}" />
+    </swiper-item>
+    <!-- test -->
+    <swiper-item>
+      <!-- <template is="test"/> -->
+
+      <view class="section">
+        <input placeholder-style="color:#ccc" placeholder="输入影人或者电影" confirm-type='search' bindconfirm='fnn' />
+      </view>
+      <template is='zujian' data="{{index:search}}" />
+
+
+    </swiper-item>
+
+  </swiper>
+</view>
+
+
+<template name='haha'>
+  <view>
+    <text> {{index}}: {{item.msg}} </text>
+    <text> Time: {{item.time}} </text>
+  </view>
+</template>
+
+
+<template name='zujian'>
+
+  <view class='box' wx:for="{{index}}" wx:key="{{index}}">
+    <view class='left' mode='aspectFit'>
+      <image src="{{item.images.small}}"></image>
+
+    </view>
+    <view class='right'>
+      <navigator url="/pages/details/index?id={{item.id}}" hover-class='none'>
+
+        <view class='title'>{{item.title}}</view>
+        <view>导演 {{item.directors[0].name}}</view>
+        <view>
+          <text>演员 </text>
+          <text wx:for="{{item.casts}}" wx:key='{{index}}'>{{item.name}} </text>
+        </view>
+        <view>评分 {{item.rating.average?item.rating.average:'暂无评分'}}</view>
+        <view>
+          <text>{{item.collect_count}} 人看过</text>
+        </view>
+      </navigator>
+    </view>
+
+  </view>
+</template>
+
+<template name='test'>
+  <view class="item-ans">
+    <view class="avatar">
+      <image class="img" src="http://ookzqad11.bkt.clouddn.com/avatar.png"></image>
+    </view>
+    <view class="expertInfo">
+      <view class="name">欢颜</view>
+      <view class="tag">知名情感博主</view>
+      <view class="answerHistory">134个回答，2234人听过 </view>
+    </view>
+    <navigator url="/pages/askExpert/expertDetail" class="askBtn">问TA</navigator>
+  </view>
+</template>

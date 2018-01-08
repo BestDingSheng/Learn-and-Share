@@ -23,7 +23,9 @@ Page({
     })
   },
   onReady: function () {
-
+    wx.setNavigationBarTitle({
+      title: '影人信息'
+    })
   },
   onLoad: function (option) {
     let me = this;

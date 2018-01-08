@@ -15,7 +15,7 @@
       </view>
       <view>评分 {{item.rating.average?item.rating.average:'暂无评分'}}</view>
       <view>
-        <text>多少人看过 {{item.collect_count}}</text>
+        <text> {{item.collect_count}}看过</text>
       </view>
     </navigator>
   </view>

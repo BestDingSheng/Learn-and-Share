@@ -6,9 +6,9 @@ var start = 10;
 
 Page({
   data: {
-    list:[],
-    show:false,
-    load:true,
+    list: [],
+    show: false,
+    load: true,
   },
   onShareAppMessage: function (e) {
     var pages = getCurrentPages()    //获取加载的页面
@@ -24,57 +24,61 @@ Page({
     }
   },
   //事件处理函数
-  bindViewTap: function() {
+  bindViewTap: function () {
     wx.navigateTo({
       url: '../logs/logs'
     })
   },
-  onReachBottom(){
+  onReachBottom() {
     // console.log(this.data.load)
-    if (this.data.load){
+    if (this.data.load) {
       this.loadMore()
-    }else{
+    } else {
       wx.showToast({ //期间为了显示效果可以添加一个过度的弹出框提示“加载中” 
         title: '没有更多了',
         icon: 'loading',
         duration: 2000
-      })  
+      })
     }
-   
+
   },
-  loadMore(){
+  loadMore() {
     var list = this.data.list
     var me = this;
     wx.showToast({ //期间为了显示效果可以添加一个过度的弹出框提示“加载中” 
       title: '加载中',
       icon: 'loading',
       duration: 1000
-    })  
-    start+=10;
-    common.api(start,1).then(function (res) {
+    })
+    start += 10;
+    common.api(start, 1).then(function (res) {
       console.log(res);
       me.setData({
         'list': list.concat(res.data.subjects),
         'show': true,
-        'load': res.data.subjects.length>0?true:false
+        'load': res.data.subjects.length > 0 ? true : false
       })
     })
 
   },
-  onReady:function(){
+  onReady: function () {
     console.log('我加载完成了')
+
+  },
+  onShow: function () {
+
     wx.setNavigationBarTitle({
       title: '正在热映'
     })
   },
   onLoad: function () {
     var me = this;
-    common.api(0,1).then(function(res){
+    common.api(0, 1).then(function (res) {
       console.log(res);
-          me.setData({
-          'list': res.data.subjects,
-          'show':true
-        })      
+      me.setData({
+        'list': res.data.subjects,
+        'show': true
+      })
     })
     // wx.request({
     //   url: 'https://api.douban.com/v2/movie/in_theaters',
@@ -88,7 +92,7 @@ Page({
     //       'show':true
     //     })       
     //     console.log(res.data.subjects);
-        
+
     //   }
     // })
   }

@@ -1,7 +1,7 @@
 //index.js
 //获取应用实例
 const app = getApp()
-var listimg = [];
+
 
 Page({
   data: {
@@ -25,13 +25,11 @@ Page({
   },
   //事件处理函数
   bindViewTap: function () {
-    if (listimg.length==0){
+    var listimg = [];
       let casts = this.data.obj.casts;
       for (let i = 0; i < casts.length; i++) {
         listimg.push(casts[i].avatars.large);
       }
-    }
-  
     
     wx.previewImage({
       current: this.data.obj.src, // 当前显示图片的http链接
@@ -39,33 +37,17 @@ Page({
     })
   },
   lala(e) {
-    // console.log(e);
-    // let listimg = []
-    let id = e.target.id;
-    console.log(id);
 
+    let id = e.target.id;
     wx.navigateTo({
       url: `/pages/yingren/index?id=${id}`
     })
-
-    let casts = this.data.obj.casts;
-    for (let i = 0; i < casts.length; i++) {
-      listimg.push(casts[i].avatars.large);
-    }
-    // wx.previewImage({
-    //   current: listimg[id], // 当前显示图片的http链接
-    //   urls: listimg
-    // })
-
-
-
-
-
-
   },
   onReady: function () {
 
-  
+    wx.setNavigationBarTitle({
+      title: '电影详情'
+    })
 
 
   },

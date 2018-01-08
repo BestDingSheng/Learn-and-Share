@@ -19,6 +19,7 @@
 
 .right {
   padding-left: 20rpx; 
+  width: 100%;
 }
 
 .title {

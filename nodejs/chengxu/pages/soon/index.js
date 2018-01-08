@@ -40,7 +40,6 @@ Page({
         duration: 2000
       })
     }
-
   },
   loadMore() {
     var list = this.data.list
@@ -59,10 +58,11 @@ Page({
         'load': res.data.subjects.length > 0 ? true : false
       })
     })
-
   },
   onReady: function () {
-    console.log('我加载完成了')
+
+  },
+  onShow: function () {
     wx.setNavigationBarTitle({
       title: '即将上映'
     })
