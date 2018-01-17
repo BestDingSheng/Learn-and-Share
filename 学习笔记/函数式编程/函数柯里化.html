@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+<script>
+    //  不纯函数
+    // var min = 18;
+    // var check = age=>age>min;
+    // //  纯函数 不方便拓展
+    // var checkage = age=>age>18;
+    //  柯丽华来改变他
+    // var checkage = min => (age => age > min);
+    // /**
+    // var checkage =function(min){
+    //     return function(age){
+    //         return age>min
+    //     }
+    // }
+    // **/
+    // var checkage18 = checkage(18);
+    // console.log(checkage18(15))
+
+    // 柯里化之前
+    function add(x,y){
+        return x+y;
+    }
+    add(1,2);
+ // 柯里化之后
+    function add(x){
+        return function(y){
+            return x+y;
+        }
+    }
+    add(1)(2)
+
+
+
+</script>

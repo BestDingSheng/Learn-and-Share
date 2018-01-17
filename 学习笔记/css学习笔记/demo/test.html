@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            width: 60px;
+            height: 60px;
+            border: 1px solid #000;
+            margin-top:20px;
+            position: relative;
+            left: 10px;
+            top:0px;
+        }
+    </style>
+</head>
+<body>
+<div></div>
+<script>
+    var oDiv = document.getElementsByTagName('div')[0];
+    var timer;
+    function move(tar,fn){
+        timer = setInterval(function(){
+            var left = oDiv.offsetLeft +5;
+            if(left >=tar){
+                left = tar;
+            }
+            oDiv.style.left = left +'px';
+        },30);
+        setTimeout(function(){
+            clearInterval(timer);
+            if(fn) fn;
+        },2000)
+    }
+    move(300,move(600));
+</script>
+</body>
+</html>

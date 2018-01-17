@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>代理模式</title>
+</head>
+
+<body>
+</body>
+
+</html>
+<script type="text/javascript">
+// 01
+// var Flower = function() {};
+// var xiaoming = {
+//     sendFlower: function(target) {
+//         var flower = new Flower();
+//         target.receiveFlower(flower);
+//     }
+// };
+// var B = {
+//     receiveFlower: function(flower) {
+//         A.receiveFlower(flower);
+//     }
+// };
+// var A = {
+//     receiveFlower: function(flower) {
+//         console.log('收到花 ' + flower);
+//     }
+// };
+// xiaoming.sendFlower(B);
+
+
+
+// 02
+
+
+// var Flower = function() {};
+// var xiaoming = {
+//     sendFlower: function(target) {
+//         var flower = new Flower();
+//         target.receiveFlower(flower);
+//     }
+// };
+// var B = {
+//     receiveFlower: function(flower) {
+//         A.listenGoodMood(function() {
+//             A.receiveFlower(flower);
+//         });
+//     }
+// };
+// var A = {
+//     receiveFlower: function(flower) {
+//         // 监听 A 的好心情
+//         console.log('收到花 ' + flower);
+//     },
+//     listenGoodMood: function(fn) {
+//         setTimeout(function() { // 假设 10 秒之后 A 的心情变好
+//             fn();
+//         }, 3000);
+//     }
+// };
+
+//   xiaoming.sendFlower(B);
+
+
+
+
+//     var myImage = (function() {
+//         var imgNode = document.createElement('img');
+//         document.body.appendChild(imgNode);
+//         return {
+//             setSrc: function(src) {
+//                 imgNode.src = src;
+//             }
+//         }
+//     })();
+// var proxyImage = (function() {
+//     var img = new Image;
+//     img.onload = function() {
+//     	console.log('1111')
+//         myImage.setSrc(this.src);
+//     }
+//     return {
+//         setSrc: function(src) {
+//             myImage.setSrc('http://img14.3lian.com/201510/21/af398caa308168a2f8ce706dabc71934.gif');
+//             img.src = src;
+//         }
+//     }
+// })();
+// proxyImage.setSrc('http://img.zcool.cn/community/016997558cfe5c32f87598b5fa640a.jpg@900w_1l_2o_100sh.jpg');
+
+// console.log(new Image);
+
+
+var each = function(arr, callback) {
+    for (var i = 0, l = arr.length; i < l; i++) {
+        callback(arr[i],[i], i, arr[i])
+    }
+}
+each([1, 2, 3], function(i, n) {
+    alert([i, n]);
+});
+</script>

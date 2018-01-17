@@ -1,0 +1,22 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	background: #ccc;
+}
+.main{
+	width: 400px;
+	margin:0 auto;
+	perspective:1000px;
+}
+#box{
+
+	transform-style: preserve-3d;
+
+}
+#box>div{
+	position: absolute;
+	width: 400px;
+	height: 200px;
+}

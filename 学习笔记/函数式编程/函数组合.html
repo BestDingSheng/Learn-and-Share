@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<script>
+    // const compose = (f,g)=>(x=>f(g(x)));
+    // es5 
+    const compose = function(f,g){
+        return function(x){
+            return f(g(x));
+        }
+    }
+    // var first = arr =>arr[0];
+    var first =function(arr){
+        return arr[0];
+    }
+    // var reverse = arr=>arr.reverse();
+    
+    var reverse = function(arr){
+        return arr.reverse();
+    }
+    var last = compose(first,reverse);
+    
+    console.log(last([1,2,3,4,5]))
+    // last([1,2,3,4,5])
+
+    
+
+
+</script>

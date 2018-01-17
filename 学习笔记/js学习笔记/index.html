@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+</body>
+</html>
+
+<script type="text/javascript">
+
+var a = 5;
+
+ var obj = {
+ 	a:10,
+ 	b:this.a,
+ 	c:function(){
+ 		return function(){
+ 			return this.a;
+ 		}
+ 	}	
+ }
+ console.log(obj.c()());
+
+
+
+
+
+
+
+</script>

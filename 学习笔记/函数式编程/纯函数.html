@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+</head>
+<body>
+	
+
+	
+</body>
+</html>
+
+<script>
+
+// 对于相同的输入 永远会得到相同的输出 而且没有任何可观察的副作用 也不依赖外部的环境状态。
+
+var xs = [1,2,3,4,5];
+xs.slice(0,3);
+console.log(xs);
+
+//  splice 不是纯函数 改变了数据源
+xs.splice(0,3);
+console.log(xs);
+
+</script>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>设计模式单列模式</title>
+</head>
+<body>
+	
+</body>
+</html>
+<script type="text/javascript">
+// 01
+// var Singleton = function(name){
+// 	this.name=name;
+// 	this.instance = null;
+// }	
+// Singleton.prototype.getName = function(){
+// 	alert(this.name);
+// }
+// Singleton.getInstance = function(name){
+// 	if(!this.instance){
+// 		this.instance=new Singleton(name);
+// 	}
+// 	return this.instance;
+// }
+// var a = Singleton.getInstance('sven1');
+// var b = Singleton.getInstance('sven2');
+// console.log(a,b);
+
+
+
+// 02
+// var CreateDiv = (function(){
+// var instance;
+// var CreatFn=function(html){
+// 	if(instance){
+// 		return instance;
+// 	}
+// 	this.html = html;
+// 	this.init();
+// 	console.log(this);
+// 	return instance = this;
+// }
+
+// CreatFn.prototype.init=function(){
+// 	var div = document.createElement('div');
+// 	div.innerHTML=this.html;
+// 	document.body.appendChild(div);
+// }
+// return  CreatFn;
+
+// })();
+
+// var a = new CreateDiv('div1');
+// var b = new CreateDiv('div2');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>

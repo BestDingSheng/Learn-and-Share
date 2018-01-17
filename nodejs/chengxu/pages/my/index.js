@@ -71,6 +71,7 @@ Page({
         });
       }
     });
+
   },
   onLoad: function () {
     wx.setNavigationBarTitle({

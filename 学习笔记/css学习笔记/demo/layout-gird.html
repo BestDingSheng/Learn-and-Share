@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>css3 Grid布局</title>
+</head>
+<style >
+*{
+	margin:0;
+	padding: 0;
+}
+.wrapper {
+
+	display: grid;
+	width: 100%;
+	margin:0 auto;
+	grid-template-columns: 100px auto 100px;
+	grid-template-rows: 100px 50px 100px;
+
+
+}
+.wrapper div:nth-child(1){
+	background:red;
+	grid-column:1/ 4;
+
+}
+.wrapper div:nth-child(2){
+	background:yellow;
+}
+.wrapper div:nth-child(3){
+	background:green;
+}
+.wrapper div:nth-child(4){
+	background:orange;
+}
+.wrapper div:nth-child(5){
+	background:blue;
+	grid-column:1/ 4;
+
+}
+.wrapper div:nth-child(6){
+	background:pink;
+	grid-column-start: 1;
+	grid-column-end: 4;
+
+}
+
+</style>
+<body>
+	<div class="wrapper">
+		<div>1</div>
+		<div>2</div>
+		<div>3</div>
+		<div>4</div>
+		<div>5</div>
+		<div>6</div>
+	</div>
+</body>
+</html>
+<script type="text/javascript">
+
+[[]]==false;
+[[]]&&1234;	
+
+</script>

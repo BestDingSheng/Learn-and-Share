@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://cdn.bootcss.com/rxjs/5.5.3/Rx.js"></script>
+	<!-- <script src="https://cdn.bootcss.com/moment.js/2.20.1/locale/af.js"></script> -->
+</head>
+
+<body>
+
+</body>
+
+</html>
+<script type="text/javascript">
+	//  Observable   A可观察的对象 证明 后面的这个对象是可以被观察的
+	//  observer   观察者
+	//  Subscription 订阅
+	//  Operators 操作符
+	//  Subject 主体 微信公众号推送
+	//  Scheduler 调度器
+
+//
+
+	var observable = Rx.Observable.create(function subscribe(observer) {
+		try {
+			observer.next(1);
+			observer.next(2);
+			observer.next(3);
+			observer.complete();
+		} catch (err) {
+			observer.error(err); // delivers an error if it caught one
+		}
+	});
+
+
+	observable.subscribe({
+		next: x => console.log('got value ' + x),
+		error: err => console.error('something wrong occurred: ' + err),
+		complete: () => console.log('done'),
+	});
+	console.log('just after subscribe');
+</script>

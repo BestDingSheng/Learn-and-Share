@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<script>
+
+const compose = function(f,g){
+        return function(x){
+            return f(g(x));
+        }
+    }
+
+var toUpperCase =word=>word.toUpperCase();
+var split =x=>(str=>str.split(x));
+// es6
+// var split =function(x){
+//     return function(str){
+//         return str.split(x);
+//     }
+// }
+var f =compose(split(''),toUpperCase);
+f('abcd efgh');
+console.log(f('abcd efgh'))
+
+</script>

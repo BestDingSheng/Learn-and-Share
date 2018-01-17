@@ -11,7 +11,7 @@
 * 技术博客：http://www.ding1996.cn/
 * Github：https://github.com/BestDingSheng
 * 期望职位：Web前端工程师/Node工程师
-* 期望薪资：税前月薪18k~20k，特别喜欢的公司可例外
+* 期望薪资：税前月薪20k~25k，特别喜欢的公司可例外
 * 期望城市：上海
 
 
@@ -19,10 +19,11 @@
 
 - 掌握html5 css3 javascript、php 等前端开发语言
 - 熟练使用技术栈vue、vue-router、vuex、axios、webpack、es6
-- 了解使技术栈react+react-router+redux+dva+antd等相关技术
 - 熟练使用jquery、zepto、bootstrap、siwper等常用js库
-- 有webapp开发经验，熟悉hybird开发 ApiCloud Dcloud等工具
 - 熟悉 NodeJs Express ThinkPhP Mysql Mongodb等服务端技术 
+- 了解函数式编程以及lodash ramda等函数式编程js库
+- 了解使技术栈react+react-router+redux+dva+antd等相关技术
+- 对前端自动化测试有一定了解 Karma Mocha BackStopjs jasmine.js chai.js
 - 熟练使用版本控制git、svn
 
 

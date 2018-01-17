@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+<script>
+    /* 封装ajax函数
+     * @param {string}opt.type http连接的方式，包括POST和GET两种方式
+     * @param {string}opt.url 发送请求的url
+     * @param {boolean}opt.async 是否为异步请求，true为异步的，false为同步的
+     * @param {object}opt.data 发送的参数，格式为对象类型
+     * @param {function}opt.success ajax发送并接收成功调用的回调函数
+     */
+
+
+
+    function ajax(opt) {
+        if (XMLHttpRequest) {
+            xmlHttp = new XMLHttpRequest();
+            var ajax = function () {
+                xmlHttp = new XMLHttpRequest();
+                console(111)
+            }
+            return ajax;
+
+        } else {
+            xmlHttp = new ActiveXObject('Microsoft.XMLHTTP');
+            var ajax = function () {
+                console(111)
+                xmlHttp = new ActiveXObject('Microsoft.XMLHTTP');
+            }
+            return ajax;
+
+        }
+
+    }
+
+    ajax()
+    ajax()
+</script>

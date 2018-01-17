@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <script src="http://cdn.bootcss.com/zepto/1.0rc1/zepto.min.js"></script>
+</head>
+
+<body>
+</body>
+<div class="main">
+	<div id="box">
+		<div>1</div>
+		<div>2</div>
+		<div>3</div>
+		<div>4</div>
+		<div>5</div>
+		<div>6</div>
+	</div>
+</div>
+</html>
+<script type="text/javascript">
+var box = document.getElementById('box');
+var arrdiv = box.getElementsByTagName('div');
+
+for(var i=0;i<arrdiv.length;i++){
+	arrdiv[i].style.background='url("./img/'+(i+1)+'.jpg") no-repeat';
+	arrdiv[i].style.WebkitTransform="rotateY(" + 360 / arrdiv.length * i + 'deg) translatez(350px)';  
+}
+
+var startx,
+	endx,
+	x=0;
+
+$('#box').on('touchstart',function(event){
+	event.preventDefault();
+	var touch = event.changedTouches[0];
+	startx=touch.pageX-0;
+	console.log(startx)
+})
+
+$('#box').on('touchmove',function(event){
+	event.preventDefault();
+	var touch = event.changedTouches[0];
+	 endx =touch.pageX;
+	 x = endx-startx;
+	box.style.transform = 'rotateY(' + x + 'deg)';
+})
+
+$('document').on('click',function(){
+	
+})
+setInterval(function(){
+	x+=60
+box.style.transform = 'rotateY(' + (x)+ 'deg)';
+console.log(111);
+},3000)
+
+</script>
