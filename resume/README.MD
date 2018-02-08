@@ -11,18 +11,18 @@
 * 技术博客：http://www.ding1996.cn/
 * Github：https://github.com/BestDingSheng
 * 期望职位：Web前端工程师/Node工程师
-* 期望薪资：税前月薪20k~25k，特别喜欢的公司可例外
+* 期望薪资：税前月薪22k~25k，特别喜欢的公司可例外
 * 期望城市：上海
 
 
 ### 技能清单
 
-- 掌握html5 css3 javascript、php 等前端开发语言
-- 熟练使用技术栈vue、vue-router、vuex、axios、webpack、es6
+- 掌握html5 css3 javascript vue react 微信小程序 等前端技术
+- 熟练使用技术栈vue、vue-router、vuex、axios、webpack、es6
 - 熟练使用jquery、zepto、bootstrap、siwper等常用js库
-- 熟悉 NodeJs Express ThinkPhP Mysql Mongodb等服务端技术 
-- 了解函数式编程以及lodash ramda等函数式编程js库
-- 了解使技术栈react+react-router+redux+dva+antd等相关技术
+- 熟悉 NodeJs Express Koa2 Mysql Mongodb等服务端技术 
+- 对Socket.io EventSource 实时通信技术有些了解
+- 了解函数式编程以及函数响应式编程相关js库 lodash.js Rx.js 等
 - 对前端自动化测试有一定了解 Karma Mocha BackStopjs jasmine.js chai.js
 - 熟练使用版本控制git、svn
 
@@ -65,7 +65,7 @@
 项目介绍：益虫充电是一款个新能源电动车车主扫码充电的一款APP主要功能扫码充电\地图导航\第三方登陆\微信支付宝支付等等
 -->
 
-#### 爱代驾（2014年6月 - 2015年11月）
+#### 爱代驾（2014年6月 - 2015年11月）
 
 ##### 微信H5活动
 <div>
@@ -84,6 +84,35 @@
 
 
 ### 开源项目
+
+#### 自己的Cli命令行工具
+[项目源码](https://github.com/BestDingSheng/dingsheng-cli)
+项目介绍:把一些日常用到的翻译查看天气生成vue react项目的功能集成到Cli里面
+
+```
+➜  ~ ding-cli
+
+  Usage: ding-cli [options] [command]
+
+  一个可以翻译,查询天气和快速创建vue和react项目的命令行工具
+
+
+  Options:
+
+    -V, --version  output the version number
+    -h, --help     output usage information
+
+
+  Commands:
+
+    ts [content]    这是一个翻译命令，如 ding-cli ts chrome
+    weather [city]  查询天气预报默认上海，ding-cli weather beijing
+    init            初始化前端项目
+```
+
+
+
+
 
 ##### Vue技术栈开发的H5音乐播放器
 [项目源码](https://github.com/BestDingSheng/vueMusic)   [点我在线预览](https://bestdingsheng.github.io/vueMusic/dist/index.html#/home)
@@ -132,4 +161,5 @@
 4、熟悉前端自动化工具Gulp fis webpack 及 photoshop 切图工具
 5、了解模块化开发sea.js require.js,服务端PHP NodeJs 语言；
 6、有解决问题、钻研新技术的兴趣和能力，具有良好团队合作精神，有高度的责任心，能够胜任一定压力的工作；-->
+
 
