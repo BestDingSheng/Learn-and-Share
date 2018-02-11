@@ -127,7 +127,7 @@ Page({
       duration: 2000
     })
     wx.request({
-      url: `https://api.douban.com/v2/movie/search?q=${value}`,
+      url: `https://douban.uieee.com/v2/movie/search?q=${value}`,
       method: 'GET',
       header: {
         "Content-Type": "json"
@@ -147,7 +147,7 @@ Page({
   },
 
   api(type) {
-    let url = `https://api.douban.com/v2/movie/search?tag=${type}`;
+    let url = `https://douban.uieee.com/v2/movie/search?tag=${type}`;
     return new Promise((resolve, reject) => {
       wx.request({
         url: url,

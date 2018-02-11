@@ -30,7 +30,7 @@ Page({
   onLoad: function (option) {
     let me = this;
     let id = option.id || 1339594
-    let url = `https://api.douban.com/v2/movie/celebrity/${id}?apikey=0b2bdeda43b5688921839c8ecb20399b`
+    let url = `https://douban.uieee.com/v2/movie/celebrity/${id}?apikey=0b2bdeda43b5688921839c8ecb20399b`
     wx.request({
       url: url,
       method: 'GET',

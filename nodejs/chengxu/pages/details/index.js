@@ -53,7 +53,7 @@ Page({
   },
   onLoad: function (option) {
     let id = option.id;
-    let url = "https://api.douban.com/v2/movie/subject/" + id
+    let url = "https://douban.uieee.com/v2/movie/subject/" + id
     console.log(url)
     let me = this;
     wx.request({
@@ -74,7 +74,7 @@ Page({
             "casts": data.casts,
             "xiangkan": data.collect_count,
             "kanguo": data.comments_cout,
-            "daoyan": data.directors[0].name,
+            "daoyan": data.directors[0].name || "",
           },
           'show': true
         })
