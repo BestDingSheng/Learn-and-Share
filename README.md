@@ -150,6 +150,14 @@
 |demo api|https://bird.ioliu.cn/||
 |faker.js数据模拟工具|https://github.com/Marak/faker.js||
 
+### 性能优化
+
+[浏览器渲染的过程和原理](https://zhuanlan.zhihu.com/p/29418126)
+[网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
+[浏览器内核、JS 引擎、页面呈现原理及其优化](https://www.zybuluo.com/yangfch3/note/671516)
+[浏览器304缓存原理](https://my.oschina.net/ososchina/blog/494074)
+[localForage 使用indexDB websq](https://github.com/localForage/localForage)
+[cross-storage扩展可以使用其他域下的storage](https://github.com/zendesk/cross-storage)
 
 
 
@@ -163,6 +171,8 @@
 ### 面试简历相关
 * [面试指南1](https://huruji.github.io/FE-Interview/#/docs/JavaScript?id=javascript%e9%83%a8%e5%88%86)
 * [面试指南2](https://segmentfault.com/a/1190000009429071)
+* [面试指南3](https://github.com/wangjianhui2464/front-end-interview)
+* [面试指南4](https://github.com/centmaster/summarize-interview/blob/master/README.md)
 * [前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)
 
 
