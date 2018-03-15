@@ -151,7 +151,8 @@
 |faker.js数据模拟工具|https://github.com/Marak/faker.js||
 
 ### 性能优化
-
+[webpack性能优化1](https://zhuanlan.zhihu.com/p/27710902)
+[webpack性能优化2](https://zhuanlan.zhihu.com/p/26710831?refer=ElemeFE)
 [浏览器渲染的过程和原理](https://zhuanlan.zhihu.com/p/29418126)
 [网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
 [浏览器内核、JS 引擎、页面呈现原理及其优化](https://www.zybuluo.com/yangfch3/note/671516)
