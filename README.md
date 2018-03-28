@@ -183,6 +183,13 @@
 * [vscode插件大全](https://github.com/varHarrie/Dawn-Blossoms/issues/10)
 * [sublime快捷键(mac完整版)](开发工具/sublime快捷键(mac完整版).md)
 
+### chrome常用插件
+
+-  adblock plus 去广告
+-  github plus 显示github文件大小能下载单个文件
+-  Octotree 显示github 文件树
+-  Tampermokey 油猴 强大的脚本工具
+
 ### 总结
  - 把平时看到有用的常用的项目都收藏起来方便自己查找
 
