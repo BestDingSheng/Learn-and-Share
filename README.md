@@ -22,6 +22,7 @@
 * [易于使用的PDF工具](https://smallpdf.com/cn/unlock-pdf)
 * [码云](http://git.oschina.net/)
 * [互联网开发工具集合](http://www.wulihub.com/nav/PM)
+* [mac Cornerstone svn使用教程](https://www.jianshu.com/p/32d17452a4cd)
 
 ### 前端开发规范
 * [css规范](前端规范/doc/md/css.md)
@@ -151,22 +152,22 @@
 |faker.js数据模拟工具|https://github.com/Marak/faker.js||
 
 ### 性能优化
-[webpack性能优化1](https://zhuanlan.zhihu.com/p/27710902)
-[webpack性能优化2](https://zhuanlan.zhihu.com/p/26710831?refer=ElemeFE)
-[浏览器渲染的过程和原理](https://zhuanlan.zhihu.com/p/29418126)
+- [webpack性能优化1](https://zhuanlan.zhihu.com/p/27710902)
+- [webpack性能优化2](https://zhuanlan.zhihu.com/p/26710831?refer=ElemeFE)
+- [浏览器渲染的过程和原理](https://zhuanlan.zhihu.com/p/29418126)
 [网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
-[浏览器内核、JS 引擎、页面呈现原理及其优化](https://www.zybuluo.com/yangfch3/note/671516)
-[浏览器304缓存原理](https://my.oschina.net/ososchina/blog/494074)
-[localForage 使用indexDB websq](https://github.com/localForage/localForage)
-[cross-storage扩展可以使用其他域下的storage](https://github.com/zendesk/cross-storage)
+- [浏览器内核、JS 引擎、页面呈现原理及其优化](https://www.zybuluo.com/yangfch3/note/671516)
+- [浏览器304缓存原理](https://my.oschina.net/ososchina/blog/494074)
+- [localForage 使用indexDB websq](https://github.com/localForage/localForage)
+- [cross-storage扩展可以使用其他域下的storage](https://github.com/zendesk/cross-storage)
 
 
 
 ### 阅读
-[深入浅出的webpack](http://webpack.wuhaolin.cn/)
-[如何成为黑客](https://github.com/zer4tul/hacker-howto)
-[从过去一年最好的文章中学习原生 JavaScript](https://github.com/Mybridge/learn-javascript/blob/master/CN.md)
-[程序员的自我修养](https://www.gitbook.com/@leohxj)
+- [深入浅出的webpack](http://webpack.wuhaolin.cn/)
+- [如何成为黑客](https://github.com/zer4tul/hacker-howto)
+- [从过去一年最好的文章中学习原生 JavaScript](https://github.com/Mybridge/learn-javascript/blob/master/CN.md)
+- [程序员的自我修养](https://www.gitbook.com/@leohxj)
 
 
 ### 面试简历相关
