@@ -42,6 +42,7 @@
 * [jawil](https://github.com/jawil/blog/issues/11)
 * [追梦子](http://www.cnblogs.com/pssp/p/5204324.html)
 * [web前端学习资源分享](https://segmentfault.com/a/1190000010880049)
+* [海涛](https://www.jianshu.com/u/052b2939b790)
 
 
 ### 实用技巧
