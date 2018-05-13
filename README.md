@@ -81,6 +81,11 @@
 [Linux快速入门](http://linuxtools-rst.readthedocs.io/zh_CN/latest/)
 [Linux常用命令](https://mp.weixin.qq.com/s/FcJESM780b-vpwI7t7Twyg)
 
+### 收藏的编辑器主题
+* [draculat](https://draculatheme.com/)
+* [material-theme](https://github.com/equinusocio/material-theme)
+
+
 
 ### 常用前端技术工具资料库
 | 技术名称 | 网站 | 描述 |
