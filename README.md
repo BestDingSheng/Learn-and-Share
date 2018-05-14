@@ -23,6 +23,7 @@
 * [码云](http://git.oschina.net/)
 * [互联网开发工具集合](http://www.wulihub.com/nav/PM)
 * [mac Cornerstone svn使用教程](https://www.jianshu.com/p/32d17452a4cd)
+* [sublime搭建react开发环境](https://segmentfault.com/a/1190000003698071)
 
 ### 前端开发规范
 * [css规范](前端规范/doc/md/css.md)
