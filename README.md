@@ -86,6 +86,11 @@
 * [draculat](https://draculatheme.com/)
 * [material-theme](https://github.com/equinusocio/material-theme)
 
+### 一些学习平台
+* [365编程学院](https://www.rails365.net/)
+* [leetcode中文网](https://leetcode-cn.com/)
+* [技术胖博客](http://jspang.com/)
+* [前端TOP100](https://www.awesomes.cn/rank?sort=trend)
 
 
 ### 常用前端技术工具资料库
@@ -115,7 +120,6 @@
 | 技术名称 | 网站 | 描述 |
 | ------ | ------ | ------|
 | webpack | [http://webpack.github.io/](http://webpack.github.io/) | 新一代打包工具 |
-| webpack中文网 | [https://doc.webpack-china.org/](https://doc.webpack-china.org/) | webpack中文网 |
 | Gulp | [http://www.gulpjs.com.cn/](http://www.gulpjs.com.cn/) | 自动化构建工具 |
 |parcel|https://parceljs.org/|零配置的前端构建工具|
 
