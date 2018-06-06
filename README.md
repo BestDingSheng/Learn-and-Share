@@ -202,6 +202,12 @@
 -  Octotree 显示github 文件树
 -  Tampermokey 油猴 强大的脚本工具
 
+### 科学上网
+* https://buyvm.net
+* https://www.vultr.com/?ref=7328423
+* https://sswhite.club/
+* https://bandwagonhost.com/
+
 ### 总结
  - 把平时看到有用的常用的项目都收藏起来方便自己查找
 
