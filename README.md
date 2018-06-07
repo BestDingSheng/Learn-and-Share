@@ -204,9 +204,10 @@
 
 ### 科学上网
 * https://buyvm.net
-* https://www.vultr.com/?ref=7328423
+* https://www.vultr.com/?ref=7328423 国外服务器
 * https://sswhite.club/
 * https://bandwagonhost.com/
+* https://github.com/Alvin9999/new-pac/wiki   免费
 
 ### 总结
  - 把平时看到有用的常用的项目都收藏起来方便自己查找

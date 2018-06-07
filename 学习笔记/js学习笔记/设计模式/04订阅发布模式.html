@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+</body>
+</html>
+
+<script>
+
+let event = {
+	list:{},
+	on(key,fn){
+		if(!this.list[key]){
+			this.list[key]=[]
+		}
+		this.list[key].push(fn);
+	},
+	emit(){
+		let key =[].shift.call(arguments),
+			fns = this.list[key];
+
+			// fns为空返回false
+			if(!fns || fns.length ===0){
+				return false;
+			}
+			fns.forEach((fn)=>{
+				fn.apply(this,arguments)
+			})
+	},
+	// 取消订阅
+	remove(key,fn){
+		let fns = this.list[key];
+		// 如果缓存中没有函数返回false
+		if(!fns){
+			return false;
+		}
+		if(!fn){
+			fns.length = 0;
+		}else{
+			fns.forEach((item,index)=>{
+				if(item===fn){
+					fns.splice(index,1)
+				}
+			})
+		}
+	}
+}
+
+let obj = {}
+
+for(let i in event){
+	obj[i] = event[i]
+}
+
+console.log(obj)
+
+
+</script>
