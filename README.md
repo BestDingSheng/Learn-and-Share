@@ -63,14 +63,16 @@
 
 ### react相关知识
 * [react官网](https://facebook.github.io/react/)
-* [react中文网](http://www.react-cn.com/index.html)
-* [react快速入门](https://hulufei.gitbooks.io/react-tutorial/dom.html)
+* [react中文网](http://www.css88.com/react/)
 * [Redux 中文文档](http://www.redux.org.cn/)
 * [react-router中文文档](http://react-guide.github.io/react-router-cn/#)
 * [阮一峰全栈培训资料](https://github.com/BestDingSheng/jstraining)
 * [Ant Design蚂蚁金服UI框架](https://ant.design/docs/spec/introduce-cn)
 * [dva基于redux的前端轻量级框架](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
 * [阮一峰React技术站教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+* [webpack4从零搭建react](https://juejin.im/post/5af17cd5518825670d731065)
+* [React中Context的用法](https://zhuanlan.zhihu.com/p/27989929)
+* [mbox在react中的运用](https://blog.csdn.net/u012125579/article/details/69400169)
 
 ### 能让我成长的优秀项目
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  # vue 后台项目
