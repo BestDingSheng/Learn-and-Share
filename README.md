@@ -44,6 +44,7 @@
 * [追梦子](http://www.cnblogs.com/pssp/p/5204324.html)
 * [web前端学习资源分享](https://segmentfault.com/a/1190000010880049)
 * [海涛](https://www.jianshu.com/u/052b2939b790)
+* [用友前端播客](https://github.com/iuap-design/blog/issues)
 
 
 ### 实用技巧
@@ -73,6 +74,7 @@
 * [webpack4从零搭建react](https://juejin.im/post/5af17cd5518825670d731065)
 * [React中Context的用法](https://zhuanlan.zhihu.com/p/27989929)
 * [mbox在react中的运用](https://blog.csdn.net/u012125579/article/details/69400169)
+* [webpack中配置es7装饰器](https://cn.mobx.js.org/best/decorators.html)
 
 ### 能让我成长的优秀项目
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  # vue 后台项目
@@ -93,6 +95,10 @@
 * [leetcode中文网](https://leetcode-cn.com/)
 * [技术胖博客](http://jspang.com/)
 * [前端TOP100](https://www.awesomes.cn/rank?sort=trend)
+
+### CI CD 持续集成 部署
+* jenkins https://jenkins.io/
+* travis-ci https://www.travis-ci.org/
 
 
 ### 常用前端技术工具资料库
