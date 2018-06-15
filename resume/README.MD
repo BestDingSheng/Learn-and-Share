@@ -23,12 +23,12 @@
 - 熟悉 nodeJs express koa2 mysql mongodb等服务端技术 
 - 了解函数式编程以及函数响应式编程相关js库 lodash.js rx.js 等
 - 对前端自动化测试有一定了解 karma mocha superTest backStopjs jasmine.js chai.js
-- 了解持续集成平台Jenkins TravisCI
+- 了解持续集成平台Jenkins TravisCI Docker
 - 熟练使用版本控制git、svn
 
 
 ### 工作经历
-#### 拉卡拉（外包）（2017年1月 - 至今）
+#### 拉卡拉（2017年1月 - 至今）
 ##### Mypos运营管理系统 
 
 <img src='http://oo0pbw6u4.bkt.clouddn.com/showimg.png'>
