@@ -10,6 +10,7 @@
 * [git入门教程](http://blog.hypers.io/2017/08/06/git-tutorials/#more)
 * [git本地仓库提交到远程仓库](http://blog.csdn.net/w13770269691/article/details/38704941)
 * [.gitignore git忽略文件规范](http://www.cnblogs.com/kevingrace/p/5690241.html)
+* [github多人开发](https://gist.github.com/suziewong/4378619)
 * [使用TortoiseGit操作分支的创建与合并](http://www.cnblogs.com/hbujt/p/5554038.html)
 
 ### 开发工具
