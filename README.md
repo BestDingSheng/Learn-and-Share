@@ -190,9 +190,11 @@
 - [从过去一年最好的文章中学习原生 JavaScript](https://github.com/Mybridge/learn-javascript/blob/master/CN.md)
 - [程序员的自我修养](https://www.gitbook.com/@leohxj)
 - [编程书单](http://gad.qq.com/article/detail/31474?sessionUserType=BFT.PARAMS.232734.TASKID&ADUIN=731807845&ADSESSION=1503017883&ADTAG=CLIENT.QQ.5533_.0&ADPUBNO=26719)
+- [vue源码逐行分析](http://hcysun.me/vue-design/)
 
 ### 掘金每月精选文章
 - [掘金六月精选文章](https://juejin.im/post/5b32eb4351882548bc3a9831)
+- [2018年上半年掘金优质文章](https://juejin.im/post/5b3adfe2e51d4555b17e85df)
 
 ### 面试简历相关
 * [面试指南1](https://huruji.github.io/FE-Interview/#/docs/JavaScript?id=javascript%e9%83%a8%e5%88%86)
