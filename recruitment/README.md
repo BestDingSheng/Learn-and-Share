@@ -1,7 +1,7 @@
 # 招聘岗位整理
 
 
-|  公司名 |  岗位 |  联系人 |
+|  公司名 |  岗位 |  联系人(微信群昵称) |
 | --- | --- | --- |
 | 众安保险 | [详情请戳我](https://app.mokahr.com/recommendation-apply/zhongan#/?anchorName=000&_k=oiq92t)| 丁盛 |
 | 阿里巴巴 | [详情请戳我](https://job.alibaba.com/zhaopin/position_detail.htm?trace=qrcode_share&positionCode=GP053720) | fengfuming2007|
