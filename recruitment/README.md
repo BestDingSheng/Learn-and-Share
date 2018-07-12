@@ -6,6 +6,7 @@
 | 众安保险 | [详情请戳我](https://app.mokahr.com/recommendation-apply/zhongan#/?anchorName=000&_k=oiq92t)| 丁盛 |
 | 阿里巴巴 | [详情请戳我](https://job.alibaba.com/zhaopin/position_detail.htm?trace=qrcode_share&positionCode=GP053720) | fengfuming2007|
 |诺亚财富|前端 设计 产品等| Two hundred years|
+|哔哩哔哩|前端 后台等 |奶黄包|
 
 ## 猎头岗位
 
