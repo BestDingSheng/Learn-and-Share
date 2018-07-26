@@ -220,6 +220,7 @@
 ### 微信公众号素材
 
 - [懒人模板](http://bj.lanrenmb.com/index.php?type=103&order=)
+- [公众号接广告](https://www.jianshu.com/p/2cce507d6ed1)
 
 ### 科学上网
 * https://buyvm.net
