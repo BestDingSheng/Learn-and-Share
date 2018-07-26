@@ -217,6 +217,10 @@
 -  Octotree 显示github 文件树
 -  Tampermokey 油猴 强大的脚本工具
 
+### 微信公众号素材
+
+- [懒人模板](http://bj.lanrenmb.com/index.php?type=103&order=)
+
 ### 科学上网
 * https://buyvm.net
 * https://www.vultr.com/?ref=7328423 国外服务器
