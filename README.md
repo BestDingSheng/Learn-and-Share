@@ -192,6 +192,23 @@
 - [编程书单](http://gad.qq.com/article/detail/31474?sessionUserType=BFT.PARAMS.232734.TASKID&ADUIN=731807845&ADSESSION=1503017883&ADTAG=CLIENT.QQ.5533_.0&ADPUBNO=26719)
 - [vue源码逐行分析](http://hcysun.me/vue-design/)
 
+### 不错的技术书籍
+- JavaScript高级程序设计
+- 你不知道的JavaScript
+- JavaScript设计模式与开发实践 
+- CSS解密
+- CSS世界
+- WebKit技术内幕
+- Node.js：来一打 C++ 扩展
+- 深入浅出Node.js
+- 编程之美
+- HTML5 Canvas核心技术 图形动画与游戏开发
+- 3D数学基础：图形与游戏开发
+- Node.js区块链开发
+- 忍者秘籍2
+- 高效前端
+- 程序员的数学
+
 ### 掘金每月精选文章
 - [掘金六月精选文章](https://juejin.im/post/5b32eb4351882548bc3a9831)
 - [2018年上半年掘金优质文章](https://juejin.im/post/5b3adfe2e51d4555b17e85df)
