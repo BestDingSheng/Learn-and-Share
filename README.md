@@ -219,6 +219,7 @@
 * [面试指南3](https://github.com/wangjianhui2464/front-end-interview)
 * [面试指南4](https://github.com/centmaster/summarize-interview/blob/master/README.md)
 * [前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)
+* [面试指南5](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
 
 
 ### 代码编辑器相关
