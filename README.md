@@ -239,6 +239,8 @@
 
 - [懒人模板](http://bj.lanrenmb.com/index.php?type=103&order=)
 - [公众号接广告](https://www.jianshu.com/p/2cce507d6ed1)
+- [秀米编辑器](https://xiumi.us/#/)
+- [创客贴](https://www.chuangkit.com/)
 
 ### 科学上网
 * https://buyvm.net
