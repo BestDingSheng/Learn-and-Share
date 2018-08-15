@@ -11,6 +11,7 @@
 * [git本地仓库提交到远程仓库](http://blog.csdn.net/w13770269691/article/details/38704941)
 * [.gitignore git忽略文件规范](http://www.cnblogs.com/kevingrace/p/5690241.html)
 * [github多人开发](https://gist.github.com/suziewong/4378619)
+* [github pull result](https://blog.csdn.net/qq_33429968/article/details/62219783)
 * [使用TortoiseGit操作分支的创建与合并](http://www.cnblogs.com/hbujt/p/5554038.html)
 * [git可视化入门教程](https://learngitbranching.js.org/)
 
