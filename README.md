@@ -12,6 +12,7 @@
 * [.gitignore git忽略文件规范](http://www.cnblogs.com/kevingrace/p/5690241.html)
 * [github多人开发](https://gist.github.com/suziewong/4378619)
 * [使用TortoiseGit操作分支的创建与合并](http://www.cnblogs.com/hbujt/p/5554038.html)
+* [git可视化入门教程](https://learngitbranching.js.org/)
 
 ### 开发工具
 * [Ps & 切图](开发工具/Ps&切图.md)
