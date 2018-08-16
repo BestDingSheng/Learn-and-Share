@@ -14,6 +14,7 @@
 * [github pull result](https://blog.csdn.net/qq_33429968/article/details/62219783)
 * [使用TortoiseGit操作分支的创建与合并](http://www.cnblogs.com/hbujt/p/5554038.html)
 * [git可视化入门教程](https://learngitbranching.js.org/)
+* [git frok后如何和作者的仓库同步](https://blog.csdn.net/GMingZhou/article/details/78790332)
 
 ### 开发工具
 * [Ps & 切图](开发工具/Ps&切图.md)
