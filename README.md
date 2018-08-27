@@ -233,6 +233,10 @@
 * [vscode插件大全](https://github.com/varHarrie/Dawn-Blossoms/issues/10)
 * [sublime快捷键(mac完整版)](开发工具/sublime快捷键(mac完整版).md)
 
+### 刷题网站
+* leetcode
+* codewars
+
 ### chrome常用插件
 
 -  adblock plus 去广告
