@@ -217,6 +217,7 @@
 ### 掘金每月精选文章
 - [掘金六月精选文章](https://juejin.im/post/5b32eb4351882548bc3a9831)
 - [2018年上半年掘金优质文章](https://juejin.im/post/5b3adfe2e51d4555b17e85df)
+- [团队领袖](https://leader.js.cool/#/)
 
 ### 面试简历相关
 * [面试指南1](https://huruji.github.io/FE-Interview/#/docs/JavaScript?id=javascript%e9%83%a8%e5%88%86)
