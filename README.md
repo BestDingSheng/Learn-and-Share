@@ -198,6 +198,7 @@
 - [vue源码逐行分析](http://hcysun.me/vue-design/)
 - [暗网大全](https://github.com/mr-likar/DeepWeb/blob/master/DeepWeb.txt)
 
+
 ### 不错的技术书籍
 - JavaScript高级程序设计
 - 你不知道的JavaScript
@@ -228,6 +229,7 @@
 * [面试指南4](https://github.com/centmaster/summarize-interview/blob/master/README.md)
 * [前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)
 * [面试指南5](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+* [记录前端有趣的面试题](https://github.com/louzhedong/blog)
 
 
 ### 代码编辑器相关
