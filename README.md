@@ -197,6 +197,7 @@
 - [编程书单](http://gad.qq.com/article/detail/31474?sessionUserType=BFT.PARAMS.232734.TASKID&ADUIN=731807845&ADSESSION=1503017883&ADTAG=CLIENT.QQ.5533_.0&ADPUBNO=26719)
 - [vue源码逐行分析](http://hcysun.me/vue-design/)
 - [暗网大全](https://github.com/mr-likar/DeepWeb/blob/master/DeepWeb.txt)
+- [热门技术ppt](https://ppt.baomitu.com/)
 
 
 ### 不错的技术书籍
