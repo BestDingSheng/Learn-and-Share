@@ -232,6 +232,7 @@
 * [前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)
 * [面试指南5](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
 * [记录前端有趣的面试题](https://github.com/louzhedong/blog)
+* [面试指南6](https://github.com/markyun/My-blog)
 
 
 ### 代码编辑器相关
