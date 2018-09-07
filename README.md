@@ -4,6 +4,7 @@
 
 ### 互联网开原协议
 * [开源协议](http://choosealicense.online/)
+* [开源项目的一些规范](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md)
 
 ### git相关资料
 * [git & github](开发工具/git&github.md)
