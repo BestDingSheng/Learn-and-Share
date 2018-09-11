@@ -228,6 +228,7 @@
 - [2018年上半年掘金优质文章](https://juejin.im/post/5b3adfe2e51d4555b17e85df)
 - [团队领袖](https://leader.js.cool/#/)
 - [node调试指南](https://github.com/nswbmw/node-in-debugging)
+- [让你英语进阶的资料](https://github.com/byoungd/English-level-up-tips-for-Chinese)
 
 ### 面试简历相关
 * [面试指南1](https://huruji.github.io/FE-Interview/#/docs/JavaScript?id=javascript%e9%83%a8%e5%88%86)
