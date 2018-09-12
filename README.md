@@ -32,6 +32,7 @@
 * [sublime搭建react开发环境](https://segmentfault.com/a/1190000003698071)
 * [百度云不限速](https://github.com/high-speed-downloader/high-speed-downloader)
 * [rest-client](https://www.yuiapi.com/#)
+* [google镜像](https://github.com/googlehosts/hosts)
 
 ### 前端开发规范
 * [css规范](前端规范/doc/md/css.md)
