@@ -240,6 +240,7 @@
 * [面试指南5](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
 * [记录前端有趣的面试题](https://github.com/louzhedong/blog)
 * [面试指南6](https://github.com/markyun/My-blog)
+* [面试指南7](https://juejin.im/post/5b94d8965188255c5a0cdc02)
 
 
 ### 代码编辑器相关
