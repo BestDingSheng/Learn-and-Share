@@ -75,13 +75,10 @@
 
 ### react相关知识
 * [react官网](https://facebook.github.io/react/)
-* [react中文网](http://www.css88.com/react/)
 * [Redux 中文文档](http://www.redux.org.cn/)
 * [react-router中文文档](http://react-guide.github.io/react-router-cn/#)
-* [阮一峰全栈培训资料](https://github.com/BestDingSheng/jstraining)
 * [Ant Design蚂蚁金服UI框架](https://ant.design/docs/spec/introduce-cn)
 * [dva基于redux的前端轻量级框架](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
-* [阮一峰React技术站教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 * [webpack4从零搭建react](https://juejin.im/post/5af17cd5518825670d731065)
 * [React中Context的用法](https://zhuanlan.zhihu.com/p/27989929)
 * [mbox在react中的运用](https://blog.csdn.net/u012125579/article/details/69400169)
@@ -158,7 +155,6 @@
 | vue-ydui | http://vue.ydui.org/ | vue 微信UI框架 |
  
 
-
 ### 常用后端技术工具资料库
 | 技术名称 | 网站 | 描述 |
 | ------ | ------ | ------|
@@ -192,7 +188,6 @@
 - [cross-storage扩展可以使用其他域下的storage](https://github.com/zendesk/cross-storage)
 
 
-
 ### 阅读
 - [深入浅出的webpack](http://webpack.wuhaolin.cn/)
 - [如何成为黑客](https://github.com/zer4tul/hacker-howto)
@@ -203,45 +198,12 @@
 - [暗网大全](https://github.com/mr-likar/DeepWeb/blob/master/DeepWeb.txt)
 - [热门技术ppt](https://ppt.baomitu.com/)
 
-
-### 不错的学习视频
-
-
-### 不错的技术书籍
-- JavaScript高级程序设计
-- 你不知道的JavaScript
-- JavaScript设计模式与开发实践 
-- CSS解密
-- CSS世界
-- WebKit技术内幕
-- Node.js：来一打 C++ 扩展
-- 深入浅出Node.js
-- 编程之美
-- HTML5 Canvas核心技术 图形动画与游戏开发
-- 3D数学基础：图形与游戏开发
-- Node.js区块链开发
-- 忍者秘籍2
-- 高效前端
-- 程序员的数学
-
 ### 掘金每月精选文章
 - [掘金六月精选文章](https://juejin.im/post/5b32eb4351882548bc3a9831)
 - [2018年上半年掘金优质文章](https://juejin.im/post/5b3adfe2e51d4555b17e85df)
 - [团队领袖](https://leader.js.cool/#/)
 - [node调试指南](https://github.com/nswbmw/node-in-debugging)
 - [让你英语进阶的资料](https://github.com/byoungd/English-level-up-tips-for-Chinese)
-
-### 面试简历相关
-* [面试指南1](https://huruji.github.io/FE-Interview/#/docs/JavaScript?id=javascript%e9%83%a8%e5%88%86)
-* [面试指南2](https://segmentfault.com/a/1190000009429071)
-* [面试指南3](https://github.com/wangjianhui2464/front-end-interview)
-* [面试指南4](https://github.com/centmaster/summarize-interview/blob/master/README.md)
-* [前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)
-* [面试指南5](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
-* [记录前端有趣的面试题](https://github.com/louzhedong/blog)
-* [面试指南6](https://github.com/markyun/My-blog)
-* [面试指南7](https://juejin.im/post/5b94d8965188255c5a0cdc02)
-
 
 ### 代码编辑器相关
 
@@ -250,16 +212,9 @@
 * [sublime快捷键(mac完整版)](开发工具/sublime快捷键(mac完整版).md)
 * [codepen 在线调试](https://codepen.io/)
 
-### 刷题网站
-* leetcode
-* codewars
+### 前端测试框架
 
-### chrome常用插件
-
--  adblock plus 去广告
--  github plus 显示github文件大小能下载单个文件
--  Octotree 显示github 文件树
--  Tampermokey 油猴 强大的脚本工具
+* [jest官网]('https://jestjs.io/docs/zh-Hans/getting-started')
 
 ### 微信公众号素材
 
@@ -270,15 +225,21 @@
 - [神赞](http://www.shenzan.com/)
 - [云媒体](http://www.myunmei.com/index.html)
 
+### 刷题网站
+* leetcode
+* codewars
+
+### 面试简历相关
+
+- [收藏的面试指南](./booksdata/interview.md)
+
+### chrome常用插件
+
+- [收藏的chrome插件](./booksdata/chromeplugin.md)
+
 ### 科学上网
-* https://buyvm.net
-* https://www.vultr.com/?ref=7328423 国外服务器
-* https://sswhite.club/
-* https://bandwagonhost.com/
-* https://github.com/Alvin9999/new-pac/wiki   免费
-* https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7  gitlabel免费
-* https://github.com/itrump/ssfree/blob/master/cn/%E5%80%9A%E5%A4%A9%E5%89%91ss%E6%96%B0%E7%BD%91%E7%AB%99.md 倚天剑
-* http://103.78.122.182/index.html 星域ss
+
+- [收藏的vpn](./booksdata/vpn.md)
 
 ### 总结
  - 把平时看到有用的常用的项目都收藏起来方便自己查找
