@@ -214,7 +214,7 @@
 
 ### 前端测试框架
 
-* [jest官网]('https://jestjs.io/docs/zh-Hans/getting-started')
+* [jest官网](https://jestjs.io/docs/zh-Hans/getting-started)
 
 ### 微信公众号素材
 
