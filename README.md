@@ -83,6 +83,7 @@
 * [React中Context的用法](https://zhuanlan.zhihu.com/p/27989929)
 * [mbox在react中的运用](https://blog.csdn.net/u012125579/article/details/69400169)
 * [webpack中配置es7装饰器](https://cn.mobx.js.org/best/decorators.html)
+* [react高阶组件](https://segmentfault.com/a/1190000010845410)
 
 ### 能让我成长的优秀项目
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  # vue 后台项目
