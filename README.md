@@ -198,6 +198,7 @@
 - [vue源码逐行分析](http://hcysun.me/vue-design/)
 - [暗网大全](https://github.com/mr-likar/DeepWeb/blob/master/DeepWeb.txt)
 - [热门技术ppt](https://ppt.baomitu.com/)
+- [印记中文](https://docschina.org/talk)
 
 ### 掘金每月精选文章
 - [掘金六月精选文章](https://juejin.im/post/5b32eb4351882548bc3a9831)
