@@ -235,6 +235,7 @@
 ### 面试简历相关
 
 - [收藏的面试指南](./booksdata/interview.md)
+- [二万五千字面试指南](https://juejin.im/post/5ba34e54e51d450e5162789b)
 
 ### chrome常用插件
 
