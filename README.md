@@ -206,6 +206,7 @@
 - [团队领袖](https://leader.js.cool/#/)
 - [node调试指南](https://github.com/nswbmw/node-in-debugging)
 - [让你英语进阶的资料](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+- [2018值得关注的开源项目](https://juejin.im/post/5b7a8dc2e51d4538b81efff6)
 
 ### 代码编辑器相关
 
