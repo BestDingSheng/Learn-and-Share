@@ -33,6 +33,7 @@
 * [百度云不限速](https://github.com/high-speed-downloader/high-speed-downloader)
 * [rest-client](https://www.yuiapi.com/#)
 * [google镜像](https://github.com/googlehosts/hosts)
+* [mac工具推荐](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
 ### 前端开发规范
 * [css规范](前端规范/doc/md/css.md)
