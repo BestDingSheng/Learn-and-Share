@@ -58,6 +58,7 @@
 * [用友前端播客](https://github.com/iuap-design/blog/issues)
 * [蚂蚁数据](https://github.com/ProtoTeam/blog)
 * [阿里大佬](https://github.com/camsong/blog)
+* [零基础学英语](https://www.youtube.com/watch?v=88iN7E6X4D4&index=90&list=PL_xcIE0AQTbbSMWYX3_CNjd4ZE_lqQppN)
 
 
 ### 实用技巧
