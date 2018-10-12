@@ -35,6 +35,7 @@
 * [google镜像](https://github.com/googlehosts/hosts)
 * [mac工具推荐](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 * [nginx入门笔记](https://github.com/jaywcjlove/nginx-tutorial)
+* wetool 微信机器人~ 
 
 ### 前端开发规范
 * [css规范](前端规范/doc/md/css.md)
