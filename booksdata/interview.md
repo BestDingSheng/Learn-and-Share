@@ -9,3 +9,4 @@
 * [记录前端有趣的面试题](https://github.com/louzhedong/blog)
 * [面试指南6](https://github.com/markyun/My-blog)
 * [面试指南7](https://juejin.im/post/5b94d8965188255c5a0cdc02)
+* 简历 http://cv.ftqq.com/#
