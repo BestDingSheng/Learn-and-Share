@@ -252,6 +252,7 @@
 ### 刷题网站
 * leetcode
 * codewars
+* http://scriptoj.mangojuice.top/
 
 ### 面试简历相关
 
