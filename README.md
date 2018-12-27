@@ -68,6 +68,7 @@
 * [日期格式化插件-monment.js](http://momentjs.cn/)
 * [querystring博客教程](http://yijiebuyi.com/blog/d37512fc6df0fc4d0adfc2ec5c3d46ff.html)
 * [Loading gif 在线生成网站](https://loading.io/)
+* [mongoose入门](https://segmentfault.com/a/1190000012095054)
 
 
 ### vue相关知识
