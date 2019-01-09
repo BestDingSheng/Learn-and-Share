@@ -10,3 +10,4 @@
 * [面试指南6](https://github.com/markyun/My-blog)
 * [面试指南7](https://juejin.im/post/5b94d8965188255c5a0cdc02)
 * 简历 http://cv.ftqq.com/#
+* [面试指南8](https://juejin.im/post/5c356f68f265da61483bca61?utm_source=gold_browser_extension)
