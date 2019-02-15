@@ -257,6 +257,10 @@
 * codewars
 * http://scriptoj.mangojuice.top/
 
+### 网络安全
+
+* [网络安全学习资源](https://github.com/euphrat1ca/fuzzdb-collect)
+* [webhack](https://wizardforcel.gitbooks.io/web-hacking-101/content/3.html)
 ### 面试简历相关
 
 - [收藏的面试指南](./booksdata/interview.md)
