@@ -270,6 +270,9 @@
 
 - [收藏的chrome插件](./booksdata/chromeplugin.md)
 
+### 微信防撤回
+https://github.com/TKkk-iOSer/WeChatPlugin-MacOS
+
 ### 科学上网
 
 - [收藏的vpn](./booksdata/vpn.md)
