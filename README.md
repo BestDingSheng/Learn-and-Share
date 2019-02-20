@@ -92,6 +92,8 @@
 * [mbox在react中的运用](https://blog.csdn.net/u012125579/article/details/69400169)
 * [webpack中配置es7装饰器](https://cn.mobx.js.org/best/decorators.html)
 * [react高阶组件](https://segmentfault.com/a/1190000010845410)
+* [从零开始搭建webpack+react开发环境](https://juejin.im/post/5af17cd5518825670d731065)
+* [webpack4 babel7 搭建react开发环境](https://imweb.io/topic/5b8699a96a0f1b02454de3c0)
 
 ### 能让我成长的优秀项目
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)  # vue 后台项目
@@ -117,8 +119,12 @@
 * jenkins https://jenkins.io/
 * travis-ci https://www.travis-ci.org/
 
-### React
-* [从零开始搭建webpack+react开发环境](https://juejin.im/post/5af17cd5518825670d731065)
+### 辅助工具
+* [babel7学习文章]
+* [eslint](http://ilucas.me/2016/03/01/eslint-guide/)
+* [commitlint](https://github.com/pigcan/blog/issues/15)
+* [commitlint2](http://www.10tiao.com/html/293/201803/2651227981/1.html)
+
 
 
 ### 常用前端技术工具资料库
