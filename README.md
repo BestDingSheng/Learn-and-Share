@@ -266,6 +266,10 @@
 * codewars
 * http://scriptoj.mangojuice.top/
 
+### ecmascript 规范
+* https://ecma262.docschina.org/#sec-intro
+* https://yanhaijing.com/es5/#about
+
 ### 网络安全
 
 * [网络安全学习资源](https://github.com/euphrat1ca/fuzzdb-collect)
