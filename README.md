@@ -125,6 +125,10 @@
 * [commitlint](https://github.com/pigcan/blog/issues/15)
 * [commitlint2](http://www.10tiao.com/html/293/201803/2651227981/1.html)
 
+### 彻底搞懂EventLoop
+* [1](http://ftandy.com/2015/08/23/2015-08-23-tasks-microtasks-queues-and-schedules/)
+* [2](https://juejin.im/post/59e85eebf265da430d571f89)
+
 
 
 ### 常用前端技术工具资料库
