@@ -35,6 +35,7 @@
 * [google镜像](https://github.com/googlehosts/hosts)
 * [mac工具推荐](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 * [nginx入门笔记](https://github.com/jaywcjlove/nginx-tutorial)
+* [代码生成图片](https://carbon.now.sh/?bg=rgba(88%2C160%2C221%2C1)&t=solarized%20dark&wt=none&l=javascript&ds=true&dsyoff=41px&dsblur=68px&wc=true&wa=true&pv=87px&ph=85px&ln=false&fm=Hack&fs=16px&lh=145%25&si=false&es=2x&wm=false&ts=false)
 * wetool 微信机器人~ 
 
 ### 前端开发规范
