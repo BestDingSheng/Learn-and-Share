@@ -11,3 +11,4 @@
 * [面试指南7](https://juejin.im/post/5b94d8965188255c5a0cdc02)
 * 简历 http://cv.ftqq.com/#
 * [面试指南8](https://juejin.im/post/5c356f68f265da61483bca61?utm_source=gold_browser_extension)
+* 仓库 https://github.com/CyC2018/CS-Notes
