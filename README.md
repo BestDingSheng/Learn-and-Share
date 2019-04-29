@@ -125,6 +125,7 @@
 * [eslint](http://ilucas.me/2016/03/01/eslint-guide/)
 * [commitlint](https://github.com/pigcan/blog/issues/15)
 * [commitlint2](http://www.10tiao.com/html/293/201803/2651227981/1.html)
+* [如何发布一个组件到npm上](https://zhuanlan.zhihu.com/p/37366401)
 
 ### 彻底搞懂EventLoop
 * [1](http://ftandy.com/2015/08/23/2015-08-23-tasks-microtasks-queues-and-schedules/)
