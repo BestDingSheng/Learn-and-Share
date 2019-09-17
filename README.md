@@ -285,6 +285,7 @@
 
 - [收藏的面试指南](./booksdata/interview.md)
 - [二万五千字面试指南](https://juejin.im/post/5ba34e54e51d450e5162789b)
+- [面试反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
 
 ### chrome常用插件
 
