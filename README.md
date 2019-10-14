@@ -294,6 +294,9 @@
 ### 微信防撤回
 https://github.com/TKkk-iOSer/WeChatPlugin-MacOS
 
+### google助手
+https://github.com/haotian-wang/google-access-helper
+
 ### 科学上网
 
 - [收藏的vpn](./booksdata/vpn.md)
