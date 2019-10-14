@@ -296,6 +296,7 @@ https://github.com/TKkk-iOSer/WeChatPlugin-MacOS
 
 ### google助手
 https://github.com/haotian-wang/google-access-helper
+https://github.com/fangzesheng/free-api 免费的api
 
 ### 科学上网
 
