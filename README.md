@@ -298,6 +298,9 @@ https://github.com/TKkk-iOSer/WeChatPlugin-MacOS
 https://github.com/haotian-wang/google-access-helper
 https://github.com/fangzesheng/free-api 免费的api
 
+### 每天阅读系列
+https://github.com/b3log/30-seconds-zh_CN?utm_source=hacpai.com
+
 ### 科学上网
 
 - [收藏的vpn](./booksdata/vpn.md)
