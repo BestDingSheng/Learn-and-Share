@@ -293,7 +293,9 @@
 - [收藏的chrome插件](./booksdata/chromeplugin.md)
 
 ### 微信防撤回
-https://github.com/TKkk-iOSer/WeChatPlugin-MacOS
+- https://github.com/TKkk-iOSer/WeChatPlugin-MacOS
+- https://github.com/MustangYM/WeChatExtension-ForMac
+
 
 ### google助手
 https://github.com/haotian-wang/google-access-helper
