@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "koa": "^2.4.1",
     "koa-router": "^7.3.0"
   }
