@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "koa": "^2.4.1",
-    "koa-bodyparser": "^3.2.0"
+    "koa-bodyparser": "^4.3.0"
   }
 }
